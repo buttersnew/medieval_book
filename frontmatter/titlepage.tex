@@ -29,8 +29,9 @@
     \node[
         matrix,                   % This node will act as a container
         at=(current page.center), % Position the entire matrix at the page center
+        yshift=3cm,               % Move Author and Title up together
         row sep=20pt,             % Default vertical space between rows (adjust as needed)
-        xshift=0.04\paperwidth
+        xshift=0.0\paperwidth
     ]
     {
         % Row 1: Author
@@ -38,15 +39,20 @@
             \textcolor{black}{\carolingian\scshape\large\authorname}
         }; \\ % End of the first row
         % Row 2: Title
-        \node[text width=0.9\linewidth, align=center] {
+        \node[text width=0.9\linewidth, align=center] (coverTitle) {
             \protect\contour{customgold}{\textcolor{ManuscriptRed}{\carolingian\scshape\Huge\booktitle}}
         }; \\ % End of the second row
-        % Row 3: Logo (with more space before it)
-        % Note: We can specify custom spacing for a single row
-        % \node[yshift=-20pt] { % Add a little extra space before the logo
-        %     \includegraphics[width=0.07\textwidth]{content/concept_art/logo-white.png}
-        % }; \\ % End of the third row
     };
+
+    % Subtitle (conditionally included)
+    \ifdefined\subtitle
+        \if\relax\detokenize\expandafter{\subtitle}\relax
+        \else
+            \node[text width=0.8\linewidth, align=center, below=12pt of coverTitle.south] {
+                \protect\contour{customgold}{\textcolor{ManuscriptRed}{\carolingian\scshape\Large\subtitle}}
+            };
+        \fi
+    \fi
 
 
     % Other information
