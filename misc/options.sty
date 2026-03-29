@@ -1,0 +1,231 @@
+% \usepackage[
+%     activate={true,nocompatibility},  % Turn on all features & use the latest algorithms
+%     final,                            % Only apply micro-typography in final mode, not draft
+%     tracking=true,                    % Enable character tracking (for small caps, etc.)
+%     % kerning=true,                     % Enable extra kerning adjustments
+%     % spacing=true                      % Enable extra inter-word spacing adjustments
+% ]{microtype}
+
+\usepackage{microtype}
+
+\usepackage[ngerman]{babel} % language
+\addto\captionsngerman{\renewcommand{\contentsname}{Inhaltsverzeichnis}}
+
+\usepackage{lettrine}   % Add drop caps to chapter openings
+\usepackage{graphicx}
+
+\usepackage{contour}
+\contourlength{0.5pt}
+
+\usepackage{xcolor}
+
+\definecolor{customgold}{RGB}{203,161,53}
+\definecolor{ManuscriptRed}{RGB}{192,0,0}
+
+\usepackage{fontspec}
+
+\usepackage{fontspec}
+\setmainfont{EB Garamond} % Or {Adobe Caslon Pro}, {Minion Pro}
+
+% Define a special font family for titles
+\newfontfamily{\carolingian}{PfefferMediaeval}
+
+
+\usepackage{tikz}
+\usetikzlibrary{positioning}
+
+\newcommand{\hsp}{\kern 1pt}    % for nested quotation marks
+
+% Paragraph formatting
+\renewcommand{\baselinestretch}{1.125}      % Allow paragraphs to breathe by spreading the lines further
+\setlength{\parskip}{0pt}                   % Fixed space between paragraphs (i.e. disable variable parskip)
+\setlength{\parindent}{1em}
+
+% Don’t add extra space after sentences
+\frenchspacing
+
+% Reduce widows/orphans
+\widowpenalty=10000
+\clubpenalty=10000
+
+% Page size
+% --- DYNAMIC PAGE LAYOUT ENGINE ---
+\ifprintversion
+  % --- OUTPUT: FINAL PRINT PDF ---
+  % Bleed and gutter margins are mandatory for printing.
+  \usepackage[
+      paperheight=9in,
+      paperwidth=6in,
+      bleed=0.125in, % Adds 1/8 inch bleed margin
+      top=0.75in,
+      bottom=0.75in,
+      outer=0.75in,
+      inner=0.875in
+  ]{geometry}
+  \usepackage[center,cam]{crop} % Adds printer's crop marks
+
+\else
+  % --- OUTPUT: DIGITAL PDF (NO BLEED OR CROP MARKS) ---
+  \ifboundversion
+    % --- MODE: BOUND PREVIEW ---
+    % Asymmetrical "gutter" margins for a realistic preview of the bound book.
+    \usepackage[
+        paperheight=9in,
+        paperwidth=6in,
+        top=0.75in,
+        bottom=0.75in,
+        outer=0.75in,
+        inner=0.875in
+    ]{geometry}
+  \else
+    % --- MODE: SIMPLE SYMMETRICAL ---
+    % Symmetrical margins for easy screen reading.
+    % The horizontal margin (0.8125in) is the average of the inner and outer margins
+    % to keep the text block width consistent.
+    \usepackage[
+        paperheight=9in,
+        paperwidth=6in,
+        top=0.75in,
+        bottom=0.75in,
+        hmargin=0.8125in % Sets left and right margins to be equal
+    ]{geometry}
+  \fi
+\fi
+
+% Reduce overfull \hbox{} warnings
+\sloppy
+
+% Contents page
+\usepackage[titles]{tocloft}
+\renewcommand{\cftchapfont}{\large\itshape}
+\renewcommand{\cftchappagefont}{\normalfont}
+\renewcommand{\numberline}[1]{}
+
+% chapter headings
+\usepackage[center,sc]{titlesec}
+
+% Redefinir o formato do número do capítulo para algarismos romanos maiúsculos
+\renewcommand{\thechapter}{\Roman{chapter}}
+
+\renewcommand{\thesection}{\Roman{section}}
+
+\renewcommand{\thesubsection}{\thesection.\Roman{subsection}}
+
+% If using tocloft, update ToC formatting
+\renewcommand{\cftsecfont}{\normalsize\itshape}  % Section font in ToC
+\renewcommand{\cftsubsecfont}{\small}            % Subsection font in ToC
+
+% --- Chapter Image Setup ---
+\usepackage{etoolbox}
+
+% --- Chapter Background Setup (Definitive "Redefinition" Method) ---
+
+\newcommand{\chapterTextColor}{black}
+
+\newcommand{\drawchapterbackground}{}
+
+\newcommand{\setchapterbackground}[2]{%
+  \renewcommand{\drawchapterbackground}{%
+    \begin{tikzpicture}[remember picture, overlay]
+      \node[at=(current page.center), inner sep=0] {
+        \includegraphics[width=\paperwidth, height=\paperheight]{#1}
+      };
+    \end{tikzpicture}%
+  }%
+  \renewcommand{\chapterTextColor}{#2}%
+}
+
+\titleformat{\chapter}[block]
+  {\normalfont\carolingian\huge\centering\color{\chapterTextColor}}
+  {\thechapter\\}
+  {0pt}
+  {
+    \drawchapterbackground
+    \gdef\drawchapterbackground{}
+    \gdef\chapterTextColor{black}
+  }
+
+% Format for \section
+\titleformat{\section}[block]
+  {\normalfont\carolingian\Large\centering}
+  {\thesection}
+  {1em}
+  {}
+
+% Format for \subsection
+\titleformat{\subsection}[block]
+  {\normalfont\carolingian\large}
+  {\thesubsection}
+  {1em}
+  {}
+  []
+
+\newcommand{\sectionbreak}{\clearpage}
+
+% --- Optional Page Backgrounds ---
+
+% 1. DEFINE YOUR LIST OF BACKGROUND IMAGES HERE
+%    Use full paths from the root of your project.
+\pgfmathdeclarerandomlist{pagebackgrounds}{%
+  {content/concept_art/page_decoration_1.png}
+  {content/concept_art/page_decoration_2.png}
+  {content/concept_art/page_decoration_3.png}
+  {content/concept_art/page_decoration_4.png}
+  {content/concept_art/page_decoration_5.png}
+  {content/concept_art/page_decoration_6.png}
+  {content/concept_art/page_decoration_7.png}
+  {content/concept_art/page_decoration_8.png}
+  {content/concept_art/page_decoration_9.png}
+  {content/concept_art/page_decoration_10.png}
+  {content/concept_art/page_decoration_11.png}
+  {content/concept_art/page_decoration_12.png}
+  {content/concept_art/page_decoration_13.png}
+}
+
+% 2. CREATE A SWITCH to turn the feature on or off.
+\newif\ifrandombackgrounds
+\randombackgroundsfalse % Default is OFF.
+
+% 3. CREATE COMMANDS to turn the backgrounds on and off.
+\newcommand{\StartRandomBackgrounds}{\randombackgroundstrue}
+\newcommand{\StopRandomBackgrounds}{\randombackgroundsfalse}
+
+% 4. CREATE THE COMMAND that draws one random background.
+\newcommand{\DrawRandomPageBackground}{%
+  \ifrandombackgrounds
+    % Reseed the random generator on every page
+    % using the page number. This guarantees a different "random"
+    % choice for each page.
+    \pgfmathsetseed{\value{page}}
+
+    \pgfmathrandomitem{\myrandomimage}{pagebackgrounds}% Select a random image from the list
+    \begin{tikzpicture}[remember picture, overlay]
+      \node[at=(current page.center), inner sep=0, opacity=0.15] {
+        \expandafter\includegraphics\expandafter[
+          width=\paperwidth,
+          height=\paperheight
+        ]{\myrandomimage}
+      };
+    \end{tikzpicture}%
+  \fi
+}
+
+% headers/footers
+\usepackage{fancyhdr}
+\setlength{\headheight}{15pt}
+\pagestyle{fancy}
+\fancyhf{} % Clear all header/footer fields first
+\fancyhf{\DrawRandomPageBackground} % HOOK: Add our background command to every page's background layer
+\renewcommand{\headrulewidth}{0pt}
+\fancyhf[CFE,CFO]{\thepage}         % ADD page numbers back on top
+\fancyhead[CE]{\itshape\authorname} % ADD author name back on top
+\fancyhead[CO]{\itshape\booktitle}  % ADD book title back on top
+
+% custom colors
+\definecolor{customgold}{RGB}{203,161,53}
+
+\newcommand{\mylettrine}[3][lines=3, findent=3pt, nindent=0pt]{%
+  \lettrine[#1]{%
+    \protect\contour{customgold}{\textcolor{ManuscriptRed}{\carolingian #2}}%
+  }{#3}%
+}

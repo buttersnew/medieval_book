@@ -1,0 +1,101 @@
+\pagestyle{empty}
+
+% Capa
+\begin{center}
+\begin{tikzpicture}[remember picture,overlay]
+
+    % Background with texture
+    \node[inner sep=0] at (current page.center) {
+        \includegraphics[
+            width=1.02\paperwidth,
+            height=1.02\paperheight
+        ]{content/concept_art/title_page_2.png}
+    };
+
+    % Subtitle
+    % \ifx\subtitle\undefined\else\if\relax\detokenize\expandafter{\subtitle}\relax\else
+    % {\node[white, font=\Large, text width =\linewidth, align = center, anchor=north, below=8pt of title.south] {\textcolor{lightgray}{\scshape\large\subtitle}};}
+    % \fi\fi
+
+    % Center image
+    % \node[anchor=center] at (current page.center) {
+    %     \includegraphics[width=0.6\paperwidth]{content/concept_art/acan_logo.png}
+    % };
+
+    % Publisher
+    % \node[white, font=\Huge, anchor=south] (publisher) at ([yshift=32pt] current page.south) {\textcolor{white}{\scshape\large\publisher}};
+
+    % Publisher logo
+    \node[
+        matrix,                   % This node will act as a container
+        at=(current page.center), % Position the entire matrix at the page center
+        row sep=20pt,             % Default vertical space between rows (adjust as needed)
+        xshift=0.04\paperwidth
+    ]
+    {
+        % Row 1: Author
+        \node[text width=\linewidth, align=center] {
+            \textcolor{black}{\carolingian\scshape\large\authorname}
+        }; \\ % End of the first row
+        % Row 2: Title
+        \node[text width=0.9\linewidth, align=center] {
+            \protect\contour{customgold}{\textcolor{ManuscriptRed}{\carolingian\scshape\Huge\booktitle}}
+        }; \\ % End of the second row
+        % Row 3: Logo (with more space before it)
+        % Note: We can specify custom spacing for a single row
+        % \node[yshift=-20pt] { % Add a little extra space before the logo
+        %     \includegraphics[width=0.07\textwidth]{content/concept_art/logo-white.png}
+        % }; \\ % End of the third row
+    };
+
+
+    % Other information
+    \ifx\translatorname\undefined
+    \else
+        \if\relax\detokenize\expandafter{\translatorname}\relax
+        \else{
+            \node[white, font=\Large, anchor=north, above=114pt of publisher.north] (translatedBy) {\textcolor{gray}{\itshape\large{Translated by}}};
+
+            \node[white, font=\Large, anchor=south, below=2pt of translatedBy.south] (translatorAuthor) {\textcolor{lightgray}{\itshape\large\translatorname}};
+            }
+        \fi
+    \fi
+\end{tikzpicture}
+\end{center}
+
+\cleardoublepage
+
+% Title page (back cover)
+\begin{titlepage}
+    \centering
+    \newgeometry{top=1in,bottom=1in,right=0in,left=0in}
+    \thispagestyle{empty}
+    ~
+    % Author
+    \vspace{24pt}
+    {\scshape\large \authorname\par}
+
+    % Title
+    \vspace{6pt}
+    {\scshape\Huge \booktitle\par}
+
+    % Subtitle
+    \ifx\subtitle\undefined\else\if\relax\detokenize\expandafter{\subtitle}\relax\else
+    {\vspace{6pt}
+    {\scshape\large \subtitle\par}
+
+    \vspace{\stretch{1.25}}}
+    \fi\fi
+
+    % Translator
+    \ifx\translatorname\undefined\else\if\relax\detokenize\expandafter{\translatorname}\relax\else
+    {{\itshape\large{Translated by}\par}
+    \vspace{6pt}
+
+    {\itshape\Large\translatorname\par}}
+    \fi\fi
+
+    % Publisher
+    \vspace{\stretch{6}}
+    {\Huge\scshape\large\publisher\par}
+\end{titlepage}

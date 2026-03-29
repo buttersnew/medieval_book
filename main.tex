@@ -1,0 +1,107 @@
+% ==========================================================
+% --- MASTER DOCUMENT LAYOUT CONTROLS ---
+%
+% \printversiontrue:  Creates a final PDF for the printer.
+%                     Forces bleed and gutter margins.
+% \boundversiontrue:  Creates a digital PDF with asymmetrical
+%                     "gutter" margins for previewing the
+%                     bound look.
+%
+% To get a simple, symmetrical PDF for screen reading,
+% leave both commented out.
+% ==========================================================
+\newif\ifprintversion
+\newif\ifboundversion
+
+% --- CHOOSE YOUR OUTPUT TYPE ---
+% \printversiontrue   % UNCOMMENT FOR FINAL PRINT PDF
+% \boundversiontrue    % UNCOMMENT FOR DIGITAL "BOUND" PREVIEW
+
+% paper size is in preamble.sty
+\documentclass[12pt,openany]{book}
+% \DeclareUnicodeCharacter{021D}{ȝ}
+
+% define constants
+\newcommand{\authorname}{Nero}
+\newcommand{\translatorname}{}
+\newcommand{\booktitle}{The Saga of Hrōþigar}
+% \newcommand{\subtitle}{}
+\newcommand{\publisher}{PILOS}
+\newcommand{\editionyear}{2026}
+\newcommand{\isbn}{}
+
+\title{\booktitle}
+\author{\authorname}
+
+\usepackage[autostyle=true]{csquotes} % Context-sensitive quotation marks
+
+\usepackage{pdflscape}% For rotating the page
+\usepackage{graphicx}% For inserting images
+
+\usepackage{afterpage}% To apply changes only to the map page
+
+\newcommand{\goldenratio}{1.618}
+\usepackage{rotating}
+
+% \usepackage[T1]{fontenc}
+
+\usepackage{subcaption}
+
+\usepackage{tabularx}% For auto-adjusting tables
+% \usepackage{ragged2e}% For \arraybackslash in tabularx
+
+\usepackage{booktabs}% For better tables
+\usepackage{multirow}% For multi-row cells (if needed)
+\usepackage{misc/options}
+
+\usepackage[colorlinks]{hyperref}
+\hypersetup{
+    colorlinks = true,
+    linkcolor = black,
+    linkbordercolor = {white}
+}
+
+\usepackage{allrunes}
+
+% Define glossaries
+\usepackage[toc, acronym, symbols, nonumberlist, hyperfirst=true]{glossaries}
+\newglossary*{terms}{Glossary} %
+\newglossary*{characters}{Characters}
+\input{content/glossary}
+\input{content/character_register}
+\makeglossaries
+\begin{document}
+
+% Front matter
+\frontmatter
+\input{frontmatter/titlepage}
+\input{frontmatter/copyrightpage}
+\input{frontmatter/preface}
+\input{frontmatter/tocpage}
+
+% Main matter
+\mainmatter
+\pagestyle{fancy}
+
+% prolog
+\StartRandomBackgrounds
+
+% book 1
+\setchapterbackground{content/concept_art/chapter_decoration_1.png}{ManuscriptRed}
+\chapter{TEST}\label{test}
+\input{content/book 1/chapter1}
+
+\StopRandomBackgrounds
+% appendix
+\setglossarystyle{tree}
+\printglossaries
+% \printglossary[type=terms, title=Glossary]
+% \printglossary[type=characters, title=Characters]
+\chapter{Appendix}
+\input{content/appendix}%
+
+% Back matter
+\backmatter
+\input{frontmatter/backpage}% backpage of book
+
+\end{document}
