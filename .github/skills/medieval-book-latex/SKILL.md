@@ -95,6 +95,7 @@ Jeder Charakter mit eigenem Namen wird hier als Glossareintrag (Typ `characters`
 - Schlüssel (erster Parameter) und `name` sind identisch und entsprechen dem vollen Namen.
 - Im Fließtext wird ein Charakter mit `\gls{Vorname von Nachname}` referenziert.
 - Historischer Kontext, Quellen und fiktionale Abweichungen gehören in `description`.
+- `description` darf **nicht** mit einem Punkt (`.`) enden – LaTeX fügt diesen automatisch an.
 
 ---
 
@@ -113,6 +114,7 @@ Orte, historische Begriffe, Konzepte und sonstige Fachbegriffe werden hier als T
 **Regeln:**
 - Für Orte: geografische Lage, historische Epoche, Bedeutung für die Handlung.
 - Im Fließtext: `\gls{Begriffname}`.
+- `description` darf **nicht** mit einem Punkt (`.`) enden – LaTeX fügt diesen automatisch an.
 
 ---
 
