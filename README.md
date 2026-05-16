@@ -9,6 +9,9 @@ Ideen für Charaktere, Kapitel, Handlungsstränge, Schauplätze, Begriffe:
 - Dirk Kreuter: Quacksalber der behauptet er könne Stein in Gold verwandeln. Er beeinflusst Steiner ein Geschäft in Böhmen zu eröffnen um eben dies zu bewerkstelligen. Steiner ist von der Idee besessen, dass er durch das Gold seine Freiheit erkaufen könnte.
 - Priester Maximilian: Ein junger intelligenter Geistlicher, der freiwillig das Leben des Priesters gewählt hat. Jedoch stellt er fest, dass er verlangen für Frauen verspürt und hadert mit der Keuschheit. Er hat vorlieben für kurvige/dicke Frauen. Nur ist er nicht sonderlich attraktiv, weshalb sich für ihn nie gelegenheiten mit Frauen ergeben (und Gewaltätig, wie andere Männer, ist er nicht). Er trifft später Steiner, dem er sich anschließt.
 - Namenloser Einsiedler aus Steiermark der im Thayatal lebt, aus Buße, nachdem er seinen eigenen Sohn getötet hatte (den er mit einem Liebhaber seiner Frau verwechselt hatte). Er ist ein alter Mann, der in einer Höhle lebt und von den Einheimischen gemieden wird.
+- Gruber: Alter Zigeuner der zwischen Böhmen und Österreich reist und prostituierte Frauen vermittelt. Er entführt Frauen in Böhmen um sie als Prostituierte in Österreich zu verkaufen.
+
+
 
 - Konrad von Steiner ist verlobt mit Denise, jedoch bricht sie die Verlobung. Steiner ist besessen.
 - Konrad von Steiner trifft Maximilian, der sich ihm anschließt.

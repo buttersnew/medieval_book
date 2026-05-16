@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.8.31)  14 MAY 2026 22:16
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.8.31)  16 MAY 2026 10:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1553,7 +1553,18 @@ Package microtype Info: Character `156' is missing
 
 [4
 
+]) (frontmatter/wappen_von_steiner.tex
+File: content/concept_art/wappen_von_steiner.png Graphic file (type bmp)
+<content/concept_art/wappen_von_steiner.png>
+
+
+[5
+
 ])
+
+[6
+
+]
 Kapitel I.
 File: content/concept_art/chapter_decoration_10.png Graphic file (type bmp)
 <content/concept_art/chapter_decoration_10.png>
@@ -1570,8 +1581,6 @@ textcolor {ManuscriptRed}{\carolingian T}});
 ) (main.gls) (main.acr) (main.sls) (main.terms-gls) (main.characters-gls
 
 [1
-
-
 
 ])
 
@@ -1784,12 +1793,12 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D6BA5B9A50E5B2474F4A832CB36F2A14;1843.
  ) 
 Here is how much of TeX's memory you used:
- 38316 strings out of 403250
- 794760 string characters out of 5460888
- 1296819 words of memory out of 5000000
- 66120 multiletter control sequences out of 15000+600000
+ 38542 strings out of 403250
+ 800362 string characters out of 5460888
+ 1299441 words of memory out of 5000000
+ 66343 multiletter control sequences out of 15000+600000
  630915 words of font info for 93 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,15n,107p,2550b,1073s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (33 pages).
+Output written on main.pdf (35 pages).
