@@ -6,7 +6,7 @@
 - **Erste Erwähnung:** Charakterregister
 
 ## Beschreibung
-Denîse ist die Tochter des Herrn Wolfhart von Raabs, eine recht gewöhnliche niedere Adelige ohne besondere äußere Schönheit. [fiktional zulässig] Ihr Wesen ist geprägt von tiefer Obrigkeitshörigkeit — sie zweifelt nicht an den Ordnungen, die über ihr stehen, sondern fügt sich ihnen mit stiller Selbstverständlichkeit. Ihre Zeit verbringt sie am liebsten mit Gesang, Musik und Handarbeit. [fiktional zulässig] Kuonrât von Steinære ist von ihr besessen, obwohl — oder vielleicht weil — er sie als verwöhntes Einzelkind betrachtet; ein Urteil, das ihr Wesen nicht vollständig trifft. Sie löst die Verlobung auf. [fiktional zulässig]
+Denîse ist die Tochter des Herrn Wolfhart von Raabs, eine recht gewöhnliche niedere Adelige ohne besondere äußere Schönheit.  Ihr Wesen ist geprägt von tiefer Obrigkeitshörigkeit — sie zweifelt nicht an den Ordnungen, die über ihr stehen, sondern fügt sich ihnen mit stiller Selbstverständlichkeit. Ihre Zeit verbringt sie am liebsten mit Gesang, Musik und Handarbeit.  Kuonrât von Steinære ist von ihr besessen, obwohl — oder vielleicht weil — er sie als verwöhntes Einzelkind betrachtet; ein Urteil, das ihr Wesen nicht vollständig trifft. Sie löst die Verlobung auf.
 
 ## Bisheriger Verlauf
 - **[Das erste Buch]:** Als einzige Tochter Wolfhart von Raabs eingeführt. Durch landesfürstlichen Beschluss mit dem elfjährigen Kuonrât von Steinære verlobt.

@@ -3,8 +3,8 @@
 ## Basisdaten
 - **Stand:** Ritter; jüngerer Sohn des Burgherrn Hugo de Ottenstaine, kein Erbanspruch auf Burg Ottenstein.
 - **Herkunft:** Geschlecht der Ottensteiner, Waldviertel (Niederösterreich). Verbrachte sein Leben im Umkreis der Burg und der umliegenden Güter.
-- **Geboren:** ~1180 [fiktional zulässig]
-- **Gestorben:** ~1238 [fiktional zulässig]
+- **Geboren:** ~1180
+- **Gestorben:** ~1238
 - **Vater:** Hugo de Ottenstaine (urk. 1177/92) [gesichert]
 - **Erste Erwähnung:** Charakterregister
 

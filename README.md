@@ -11,7 +11,10 @@ Ideen für Charaktere, Kapitel, Handlungsstränge, Schauplätze, Begriffe:
 - Namenloser Einsiedler aus Steiermark der im Thayatal lebt, aus Buße, nachdem er seinen eigenen Sohn getötet hatte (den er mit einem Liebhaber seiner Frau verwechselt hatte). Er ist ein alter Mann, der in einer Höhle lebt und von den Einheimischen gemieden wird.
 - Gruber: Alter Zigeuner der zwischen Böhmen und Österreich reist und prostituierte Frauen vermittelt. Er entführt Frauen in Böhmen um sie als Prostituierte in Österreich zu verkaufen.
 
-
+Sagen:
+- Die Laibbrotmarter bei Raabs (1300): Geht um Hungersnot. Konrad könnte als auslöser der Hungersnot vom Mönch dargestellt werden.
+- Thaya Wassermann
+- Die Schwarze Frau von Hardegg -> Konrad von Hardegg als böser Graf (Ingo)
 
 - Konrad von Steiner ist verlobt mit Denise, jedoch bricht sie die Verlobung. Steiner ist besessen.
 - Konrad von Steiner trifft Maximilian, der sich ihm anschließt.
@@ -27,3 +30,4 @@ Ideen für Charaktere, Kapitel, Handlungsstränge, Schauplätze, Begriffe:
 - Niederlage am Peipussee
 - Konrad von Steiner zieht nach Ägypten und nimmt am 7. Kreuzzug Ludwigs IX. teil.
 - Konrad von Steiner stirbt in Ägypten.
+

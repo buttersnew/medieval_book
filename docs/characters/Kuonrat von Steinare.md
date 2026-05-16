@@ -4,7 +4,7 @@
 - **Stand:** Ritter und selbsternannter Streiter der Freiheit.
 - **Herkunft:** Geschlecht der Ottensteiner. Geboren auf der Burg Ottenstein.
 - **Geboren:** ~1213 (35 Jahre alt beim 7. Kreuzzug Ludwigs IX., 1248)
-- **Vater:** Hadmar von Steinære (~1180–~1238), jüngerer Sohn Hugos de Ottenstaine; nicht Erbe der Burg. [fiktional zulässig]
+- **Vater:** Hadmar von Steinære (~1180–~1238), jüngerer Sohn Hugos de Ottenstaine; nicht Erbe der Burg.
 - **Erste Erwähnung:** Charakterregister
 
 ## Beschreibung

@@ -6,7 +6,7 @@
 - **Erste Erwähnung:** Charakterregister
 
 ## Beschreibung
-Wolfhart von Raabs ist der Herr der Burg und Herrschaft Raabs an der Thaya — eine kleine, aber strategisch gelegene Anlage im Waldviertel. [fiktional zulässig] Über seinen Charakter ist vorerst wenig bekannt; er tritt im Roman zunächst als Vater Denîses und als Bezugspunkt für Kuonrâts Verlobung in Erscheinung. [fiktional zulässig]
+Wolfhart von Raabs ist der Herr der Burg und Herrschaft Raabs an der Thaya — eine kleine, aber strategisch gelegene Anlage im Waldviertel.  Über seinen Charakter ist vorerst wenig bekannt; er tritt im Roman zunächst als Vater Denîses und als Bezugspunkt für Kuonrâts Verlobung in Erscheinung.
 
 ## Bisheriger Verlauf
 - **[Das erste Buch]:** Als Herr zu Raabs an der Thaya eingeführt, ohne männlichen Erben. Durch landesfürstlichen Beschluss wird seine einzige Tochter Denîse mit Kuonrât von Steinære verlobt.
