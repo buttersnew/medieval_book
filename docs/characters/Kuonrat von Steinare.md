@@ -18,7 +18,7 @@
 *   **Autoritätsfeindlich:** Lehnt jede Form von weltlicher Herrschaft ab (insbesondere Herrscher aus deutschen Landen).
 
 ## Bisheriger Verlauf
-*(Noch keine Kapitel vorhanden.)*
+- **[Das erste Buch]:** Als erstgeborener Sohn Hadmars von Steinære auf Burg Ottenstein geboren (~1213). Im elften Lebensjahr durch landesfürstliche Entscheidung mit Denîse von Raabs verlobt und als künftiger Lehnsträger zu Raabs bestimmt; damit kein Erbe der väterlichen Steinære-Güter. Über seine Kindheit bis zum vierzehnten Lebensjahr ist nichts Weiteres bekannt.
 
 ## Beziehungen
 - [Hadmar von Steinære](Hadmar%20von%20Steinare.md): Vater (ruhig, großzügig; betrachtet Kuonrâts Zügellosigkeit mit stiller Ratlosigkeit)
