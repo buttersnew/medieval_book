@@ -16,6 +16,7 @@ Sagen:
 - Thaya Wassermann
 - Die Schwarze Frau von Hardegg -> Konrad von Hardegg als böser Graf (Ingo)
 
+Chronologie
 - Konrad von Steiner ist verlobt mit Denise, jedoch bricht sie die Verlobung. Steiner ist besessen.
 - Konrad von Steiner trifft Maximilian, der sich ihm anschließt.
 - Konrad von Steiner begegnet dem Einsiedler im Thayatal.
