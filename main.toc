@@ -1,13 +1,14 @@
 \babel@toc {ngerman}{}\relax 
 \contentsline {chapter}{Prolog des Autors}{iii}{chapter*.1}%
-\contentsline {chapter}{\numberline {I}Prolog}{1}{chapter.1}%
-\contentsline {chapter}{\numberline {II}TEST}{2}{chapter.2}%
-\contentsline {section}{\numberline {I}Test 1}{2}{section.2.1}%
-\contentsline {chapter}{Characters}{3}{section*.3}%
-\contentsline {chapter}{\numberline {III}Appendix}{4}{chapter.3}%
-\contentsline {section}{\numberline {I}Historischer Kontext}{4}{section.3.1}%
-\contentsline {subsection}{\numberline {I.I}Deutscher Orden}{4}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {I.II}Das Ende der Babenberger und Niederösterreich}{7}{subsection.3.1.2}%
-\contentsline {subsection}{\numberline {I.III}Ägypten und die Kreuzzüge des 13. Jahrhunderts}{15}{subsection.3.1.3}%
-\contentsline {subsection}{\numberline {I.IV}Die Kaiser des Heiligen Römischen Reiches}{19}{subsection.3.1.4}%
-\contentsline {section}{\numberline {II}Chronologische Übersicht}{22}{section.3.2}%
+\contentsline {chapter}{\numberline {I}Praefatio}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {II}TEST}{4}{chapter.2}%
+\contentsline {section}{\numberline {I}Test 1}{4}{section.2.1}%
+\contentsline {chapter}{Glossary}{5}{section*.3}%
+\contentsline {chapter}{Characters}{6}{section*.5}%
+\contentsline {chapter}{\numberline {III}Appendix}{7}{chapter.3}%
+\contentsline {section}{\numberline {I}Historischer Kontext}{7}{section.3.1}%
+\contentsline {subsection}{\numberline {I.I}Deutscher Orden}{7}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {I.II}Das Ende der Babenberger und Niederösterreich}{10}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {I.III}Ägypten und die Kreuzzüge des 13. Jahrhunderts}{18}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {I.IV}Die Kaiser des Heiligen Römischen Reiches}{22}{subsection.3.1.4}%
+\contentsline {section}{\numberline {II}Chronologische Übersicht}{25}{section.3.2}%

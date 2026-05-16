@@ -28,6 +28,8 @@ Der Roman ist **die Niederschrift eines Mönchs**, der die Ereignisse **Jahrzehn
 - Mittelhochdeutsche Begriffe sind **erlaubt und erwünscht**, wenn sie die Atmosphäre stärken (z. B. *vriunt*, *rîche*, *hövisch*). Jeder solche Begriff muss jedoch anschließend als Glossareintrag in `content/glossary.tex` eingetragen werden (Typ `terms`).
 - **Charakternamen werden immer in ihrer mittelhochdeutschen Form verwendet** – z. B. *Kuonrât* statt Konrad, *Walther* statt Walter, *Liutpolt* statt Leopold. Moderne oder neuhochdeutsche Namensformen sind im Romantext verboten. Die Schreibweise folgt dem mittelhochdeutschen Lautstand.
 - Keine modernen Redewendungen oder anachronistischen Konzepte.
+- **Gedankenstriche (` — `) sind verboten.** Zur Satzgliederung werden ausschließlich Punkt, Beistrich und (selten) Strichpunkt verwendet.
+- **Glossarverweise sind Pflicht:** Jeder Begriff aus `content/glossary.tex` und jeder benannte Charakter aus `content/character_register.tex` wird im Text mit `\gls{Schlüssel}` referenziert, sobald er namentlich erwähnt wird. Der Schlüssel entspricht dem ersten Argument von `\newglossaryentry{...}`. Für flektierte Formen wird der Suffix außerhalb gesetzt: `\gls{Schlüssel}s` (Genitiv), `\gls{Schlüssel}n` (Dativ Plural) usw. Bloße Pronomen oder Kurzformen (z. B. nur der Vorname) werden **nicht** mit `\gls` versehen.
 
 ## Konsistenz-Workflow (Pflicht vor jedem Schreiben)
 
@@ -45,6 +47,7 @@ Schreibe den Romantext als LaTeX gemäß dem Skill `medieval-book-latex`:
 - Erster Absatz eines Abschnitts mit `\mylettrine{B}{uchstabe} Rest des ersten Wortes.`
 - Mittelhochdeutsche Begriffe normal im Text verwenden
 - **Anführungszeichen ausschließlich mit `\enquote{...}`** – niemals `„"`, `""` oder `''` verwenden; rohe Anführungszeichen sehen im kompilierten PDF hässlich aus. Gilt für Dialoge, hervorgehobene Wörter und alle Zitate.
+- **Vor dem Schreiben** `content/glossary.tex` und `content/character_register.tex` lesen, um alle verfügbaren `\gls`-Schlüssel zu kennen.
 
 ### Schritt 4 – Dokumentation aktualisieren
 
