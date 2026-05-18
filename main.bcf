@@ -2373,87 +2373,88 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">./content/bibliography.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">niederstaetter_oesterreich</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">koebler_nhd_mhd</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">monasterium_zwettl_1157</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">koebler_nhd_mhd</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">lechner_babenberger</bcf:citekey>
-    <bcf:citekey order="5" intorder="2">niederstaetter_oesterreich</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">koebler_nhd_mhd</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">koebler_nhd_mhd</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">niederstaetter_oesterreich</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">koebler_nhd_mhd</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">monasterium_zwettl_1157</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">koebler_nhd_mhd</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">lechner_babenberger</bcf:citekey>
+    <bcf:citekey order="6" intorder="2">niederstaetter_oesterreich</bcf:citekey>
     <bcf:citekey order="7" intorder="1">koebler_nhd_mhd</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">schneider_ottenstein</bcf:citekey>
-    <bcf:citekey order="8" intorder="2">noe_burgen_online_ottenstein</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">noe_burgen_online_ottenstein</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">melk_1114</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">koebler_nhd_mhd</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">zeibig_klosterneuburg</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">melk_1359</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">militzer_deutscher_orden</bcf:citekey>
-    <bcf:citekey order="14" intorder="2">boockmann_deutscher_orden</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">koebler_nhd_mhd</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">schneider_ottenstein</bcf:citekey>
+    <bcf:citekey order="9" intorder="2">noe_burgen_online_ottenstein</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">noe_burgen_online_ottenstein</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">melk_1114</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">koebler_nhd_mhd</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">zeibig_klosterneuburg</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">melk_1359</bcf:citekey>
     <bcf:citekey order="15" intorder="1">militzer_deutscher_orden</bcf:citekey>
     <bcf:citekey order="15" intorder="2">boockmann_deutscher_orden</bcf:citekey>
     <bcf:citekey order="16" intorder="1">militzer_deutscher_orden</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">benninghoven_schwertbrueder</bcf:citekey>
-    <bcf:citekey order="17" intorder="2">selart_livland</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">selart_livland</bcf:citekey>
+    <bcf:citekey order="16" intorder="2">boockmann_deutscher_orden</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">militzer_deutscher_orden</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">benninghoven_schwertbrueder</bcf:citekey>
+    <bcf:citekey order="18" intorder="2">selart_livland</bcf:citekey>
     <bcf:citekey order="19" intorder="1">selart_livland</bcf:citekey>
-    <bcf:citekey order="19" intorder="2">benninghoven_schwertbrueder</bcf:citekey>
     <bcf:citekey order="20" intorder="1">selart_livland</bcf:citekey>
-    <bcf:citekey order="21" intorder="1">boockmann_deutscher_orden</bcf:citekey>
-    <bcf:citekey order="21" intorder="2">militzer_deutscher_orden</bcf:citekey>
-    <bcf:citekey order="22" intorder="1">lechner_babenberger</bcf:citekey>
-    <bcf:citekey order="22" intorder="2">niederstaetter_oesterreich</bcf:citekey>
+    <bcf:citekey order="20" intorder="2">benninghoven_schwertbrueder</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">selart_livland</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">boockmann_deutscher_orden</bcf:citekey>
+    <bcf:citekey order="22" intorder="2">militzer_deutscher_orden</bcf:citekey>
     <bcf:citekey order="23" intorder="1">lechner_babenberger</bcf:citekey>
     <bcf:citekey order="23" intorder="2">niederstaetter_oesterreich</bcf:citekey>
     <bcf:citekey order="24" intorder="1">lechner_babenberger</bcf:citekey>
     <bcf:citekey order="24" intorder="2">niederstaetter_oesterreich</bcf:citekey>
     <bcf:citekey order="25" intorder="1">lechner_babenberger</bcf:citekey>
+    <bcf:citekey order="25" intorder="2">niederstaetter_oesterreich</bcf:citekey>
     <bcf:citekey order="26" intorder="1">lechner_babenberger</bcf:citekey>
-    <bcf:citekey order="26" intorder="2">niederstaetter_oesterreich</bcf:citekey>
-    <bcf:citekey order="27" intorder="1">noe_burgen_online_ottenstein</bcf:citekey>
-    <bcf:citekey order="27" intorder="2">reichhalter_kuehtreiber</bcf:citekey>
-    <bcf:citekey order="27" intorder="3">burgen_austria_ottenstein</bcf:citekey>
-    <bcf:citekey order="28" intorder="1">reichhalter_kuehtreiber</bcf:citekey>
-    <bcf:citekey order="28" intorder="2">noe_burgen_online_ottenstein</bcf:citekey>
-    <bcf:citekey order="29" intorder="1">noe_burgen_online_ottenstein</bcf:citekey>
-    <bcf:citekey order="29" intorder="2">reichhalter_kuehtreiber</bcf:citekey>
-    <bcf:citekey order="29" intorder="3">schneider_ottenstein</bcf:citekey>
-    <bcf:citekey order="29" intorder="4">burgen_austria_ottenstein</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">lechner_babenberger</bcf:citekey>
+    <bcf:citekey order="27" intorder="2">niederstaetter_oesterreich</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">noe_burgen_online_ottenstein</bcf:citekey>
+    <bcf:citekey order="28" intorder="2">reichhalter_kuehtreiber</bcf:citekey>
+    <bcf:citekey order="28" intorder="3">burgen_austria_ottenstein</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">reichhalter_kuehtreiber</bcf:citekey>
+    <bcf:citekey order="29" intorder="2">noe_burgen_online_ottenstein</bcf:citekey>
     <bcf:citekey order="30" intorder="1">noe_burgen_online_ottenstein</bcf:citekey>
+    <bcf:citekey order="30" intorder="2">reichhalter_kuehtreiber</bcf:citekey>
+    <bcf:citekey order="30" intorder="3">schneider_ottenstein</bcf:citekey>
+    <bcf:citekey order="30" intorder="4">burgen_austria_ottenstein</bcf:citekey>
     <bcf:citekey order="31" intorder="1">noe_burgen_online_ottenstein</bcf:citekey>
-    <bcf:citekey order="32" intorder="1">burgen_austria_ottenstein</bcf:citekey>
-    <bcf:citekey order="32" intorder="2">schneider_ottenstein</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">noe_burgen_online_ottenstein</bcf:citekey>
     <bcf:citekey order="33" intorder="1">burgen_austria_ottenstein</bcf:citekey>
-    <bcf:citekey order="34" intorder="1">noe_burgen_online_ottenstein</bcf:citekey>
-    <bcf:citekey order="35" intorder="1">kacetl_thayatal</bcf:citekey>
+    <bcf:citekey order="33" intorder="2">schneider_ottenstein</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">burgen_austria_ottenstein</bcf:citekey>
+    <bcf:citekey order="35" intorder="1">noe_burgen_online_ottenstein</bcf:citekey>
     <bcf:citekey order="36" intorder="1">kacetl_thayatal</bcf:citekey>
     <bcf:citekey order="37" intorder="1">kacetl_thayatal</bcf:citekey>
-    <bcf:citekey order="37" intorder="2">stenzel_burg_zu_burg</bcf:citekey>
     <bcf:citekey order="38" intorder="1">kacetl_thayatal</bcf:citekey>
-    <bcf:citekey order="38" intorder="2">niederstaetter_oesterreich</bcf:citekey>
-    <bcf:citekey order="39" intorder="1">sagen_thayatal</bcf:citekey>
-    <bcf:citekey order="39" intorder="2">kacetl_thayatal</bcf:citekey>
-    <bcf:citekey order="40" intorder="1">kacetl_thayatal</bcf:citekey>
-    <bcf:citekey order="41" intorder="1">hopf_raabs</bcf:citekey>
-    <bcf:citekey order="41" intorder="2">noe_burgen_online_raabs</bcf:citekey>
-    <bcf:citekey order="41" intorder="3">wiki_raabs</bcf:citekey>
-    <bcf:citekey order="42" intorder="1">stenzel_burg_zu_burg</bcf:citekey>
-    <bcf:citekey order="43" intorder="1">wiki_raabs</bcf:citekey>
-    <bcf:citekey order="43" intorder="2">kacetl_thayatal</bcf:citekey>
-    <bcf:citekey order="44" intorder="1">hopf_raabs</bcf:citekey>
-    <bcf:citekey order="44" intorder="2">wiki_raabs</bcf:citekey>
-    <bcf:citekey order="45" intorder="1">wiki_burg_raabs</bcf:citekey>
-    <bcf:citekey order="45" intorder="2">hopf_raabs</bcf:citekey>
-    <bcf:citekey order="46" intorder="1">noe_burgen_online_raabs</bcf:citekey>
-    <bcf:citekey order="46" intorder="2">wiki_burg_raabs</bcf:citekey>
-    <bcf:citekey order="47" intorder="1">lechner_babenberger</bcf:citekey>
-    <bcf:citekey order="48" intorder="1">niederstaetter_oesterreich</bcf:citekey>
+    <bcf:citekey order="38" intorder="2">stenzel_burg_zu_burg</bcf:citekey>
+    <bcf:citekey order="39" intorder="1">kacetl_thayatal</bcf:citekey>
+    <bcf:citekey order="39" intorder="2">niederstaetter_oesterreich</bcf:citekey>
+    <bcf:citekey order="40" intorder="1">sagen_thayatal</bcf:citekey>
+    <bcf:citekey order="40" intorder="2">kacetl_thayatal</bcf:citekey>
+    <bcf:citekey order="41" intorder="1">kacetl_thayatal</bcf:citekey>
+    <bcf:citekey order="42" intorder="1">hopf_raabs</bcf:citekey>
+    <bcf:citekey order="42" intorder="2">noe_burgen_online_raabs</bcf:citekey>
+    <bcf:citekey order="42" intorder="3">wiki_raabs</bcf:citekey>
+    <bcf:citekey order="43" intorder="1">stenzel_burg_zu_burg</bcf:citekey>
+    <bcf:citekey order="44" intorder="1">wiki_raabs</bcf:citekey>
+    <bcf:citekey order="44" intorder="2">kacetl_thayatal</bcf:citekey>
+    <bcf:citekey order="45" intorder="1">hopf_raabs</bcf:citekey>
+    <bcf:citekey order="45" intorder="2">wiki_raabs</bcf:citekey>
+    <bcf:citekey order="46" intorder="1">wiki_burg_raabs</bcf:citekey>
+    <bcf:citekey order="46" intorder="2">hopf_raabs</bcf:citekey>
+    <bcf:citekey order="47" intorder="1">noe_burgen_online_raabs</bcf:citekey>
+    <bcf:citekey order="47" intorder="2">wiki_burg_raabs</bcf:citekey>
+    <bcf:citekey order="48" intorder="1">lechner_babenberger</bcf:citekey>
     <bcf:citekey order="49" intorder="1">niederstaetter_oesterreich</bcf:citekey>
     <bcf:citekey order="50" intorder="1">niederstaetter_oesterreich</bcf:citekey>
     <bcf:citekey order="51" intorder="1">niederstaetter_oesterreich</bcf:citekey>
     <bcf:citekey order="52" intorder="1">niederstaetter_oesterreich</bcf:citekey>
     <bcf:citekey order="53" intorder="1">niederstaetter_oesterreich</bcf:citekey>
     <bcf:citekey order="54" intorder="1">niederstaetter_oesterreich</bcf:citekey>
+    <bcf:citekey order="55" intorder="1">niederstaetter_oesterreich</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

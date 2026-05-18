@@ -9,7 +9,8 @@
 Gruober ist ein alter, fahrender Spielmann, der zwischen Böhmen und dem Herzogtum Österreich umherzieht.  Unter dem Deckmantel seiner Unterhaltungstätigkeit vermittelt er Frauen als Prostituierte und entführt Frauen in Böhmen, um sie in Österreich zu verkaufen — ein skrupelloser Handel, der ihn zu einer gefürchteten und verachteten Gestalt macht.  Der Name *Gruober* ist vermutlich ein Spitzname, den ihm deutschsprachige Reisende gegeben haben.
 
 ## Bisheriger Verlauf
-*(Noch keine Kapitel vorhanden.)*
+- **[Das erste Buch]:** Kommt auf Burg Hardegg an und treibt Handel mit dem Grafen Konrad von Hardegg: Gruober hat eine Gruppe gefangener böhmischer Frauen zum Verkauf mitgebracht, die er der Prostitution zusteuern wird. Der Graf wählt sich die schönste aus. Gruober fungiert als Menschenhändler. [fiktional zulässig]
 
 ## Beziehungen
-- [Kuonrât von Steinære](Kuonrat%20von%20Steinare.md): Kontakt im Rahmen der böhmischen Handlungsstränge
+- [Konrad von Hardegg](Konrad%20von%20Hardegg.md): Geschäftspartner in der Ausbeutung von Frauen [fiktional zulässig]
+- [Kuonrât von Steinære](Kuonrat%20von%20Steinare.md): Wird von Steiner bei Gruobers Ankunft auf Hardegg beobachtet [fiktional zulässig]

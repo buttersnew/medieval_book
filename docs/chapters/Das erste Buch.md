@@ -40,5 +40,5 @@ Das erste Buch eröffnet mit einem Überblick über das Geschlecht der Ottenstei
 
 ## Neu eingeführte Glossareinträge
 - `lehen` — Mhd. Lehen; Feudalleihe von Land/Amt gegen Treue und Dienst (→ `content/glossary.tex`)
-- `knappe` — Junger Adliger in ritterlicher Ausbildung (→ `content/glossary.tex`)
+- `schiltknappe` — Junger Adliger in ritterlicher Ausbildung (→ `content/glossary.tex`)
 - `Hardegg` — Burg- und Herrschaftsort im Thayatal (→ `content/glossary.tex`)

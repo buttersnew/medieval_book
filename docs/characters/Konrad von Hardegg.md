@@ -12,6 +12,7 @@ Kuonr\^{a}t von Hardegg ist als hochadeliger Graf im bayerisch-oesterreichischen
 
 ## Bisheriger Verlauf
 - **[Das erste Buch]:** Nimmt den vierzehnjährigen Kuonrât von Steinære als Knappen in seinen Dienst. Die spätere Erzählung rückt ihn damit früh als hochadelige Bezugsfigur im Lebensweg des Protagonisten ein. [gesichert/fiktional zugespitzt]
+- **[Das erste Buch]:** Bei Kuonrâts Ankunft auf Hardegg ist Konrad gerade dabei, Handel mit dem Banditen Gruober zu treiben: Er wählt sich eine böhmische Gefangene als Beute des Frauenraubs. Er "unterweist" den jungen Kuonrât in seinem Verständnis von Frauendressur: Befehle, Drohungen, und bei Ungehorsam die Peitsche als Buße. Der Knabe denkt, die Frau sei nur durch Worte unterworfen worden. [fiktional zulässig]
 
 ## Beziehungen
 - Haus Plain-Hardegg: Dynastische Zugehoerigkeit [gesichert]
