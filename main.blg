@@ -1,15 +1,15 @@
 [0] Config.pm:328> INFO - This is Biber 2.21
-[0] Config.pm:331> INFO - Logfile is 'main.blg'
-[84] biber-MSWIN64:342> INFO - === 
-[119] Biber.pm:421> INFO - Reading 'main.bcf'
-[200] Biber.pm:1002> INFO - Found 9 citekeys in bib section 0
-[210] Biber.pm:4487> INFO - Processing section 0
-[218] Biber.pm:4678> INFO - Looking for bibtex file 'content/bibliography.bib' for section 0
-[274] bibtex.pm:1713> INFO - LaTeX decoding ...
-[286] bibtex.pm:1519> INFO - Found BibTeX data source 'content/bibliography.bib'
-[323] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[324] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[324] Biber.pm:4307> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'de-DE'
-[324] Biber.pm:4313> INFO - No sort tailoring available for locale 'de-DE'
-[332] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[334] bbl.pm:779> INFO - Output to main.bbl
+[0] Config.pm:331> INFO - Logfile is 'c:/Users/maxim/Documents/GitHub/medieval_book/main.blg'
+[80] biber-MSWIN64:342> INFO - === 
+[115] Biber.pm:421> INFO - Reading 'c:/Users/maxim/Documents/GitHub/medieval_book/main.bcf'
+[187] Biber.pm:1002> INFO - Found 19 citekeys in bib section 0
+[195] Biber.pm:4487> INFO - Processing section 0
+[201] Biber.pm:4678> INFO - Looking for bibtex file './content/bibliography.bib' for section 0
+[260] bibtex.pm:1713> INFO - LaTeX decoding ...
+[269] bibtex.pm:1519> INFO - Found BibTeX data source './content/bibliography.bib'
+[320] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[320] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[320] Biber.pm:4307> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'de-DE'
+[320] Biber.pm:4313> INFO - No sort tailoring available for locale 'de-DE'
+[332] bbl.pm:676> INFO - Writing 'c:/Users/maxim/Documents/GitHub/medieval_book/main.bbl' with encoding 'UTF-8'
+[335] bbl.pm:779> INFO - Output to c:/Users/maxim/Documents/GitHub/medieval_book/main.bbl

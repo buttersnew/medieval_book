@@ -19,6 +19,64 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global/global}
+    \entry{benninghoven_schwertbrueder}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=d5662000858992c4639fa51bca629467}{%
+           family={Benninghoven},
+           familyi={B\bibinitperiod},
+           given={Friedrich},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Köln}%
+      }
+      \list{publisher}{1}{%
+        {Böhlau}%
+      }
+      \strng{namehash}{d5662000858992c4639fa51bca629467}
+      \strng{fullhash}{d5662000858992c4639fa51bca629467}
+      \strng{fullhashraw}{d5662000858992c4639fa51bca629467}
+      \strng{bibnamehash}{d5662000858992c4639fa51bca629467}
+      \strng{authorbibnamehash}{d5662000858992c4639fa51bca629467}
+      \strng{authornamehash}{d5662000858992c4639fa51bca629467}
+      \strng{authorfullhash}{d5662000858992c4639fa51bca629467}
+      \strng{authorfullhashraw}{d5662000858992c4639fa51bca629467}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Der Orden der Schwertbrüder: Fratres milicie Christi de Livonia}
+      \field{year}{1965}
+    \endentry
+    \entry{boockmann_deutscher_orden}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=3e45a4ad185d13474ae96f0f0badce0e}{%
+           family={Boockmann},
+           familyi={B\bibinitperiod},
+           given={Hartmut},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {München}%
+      }
+      \list{publisher}{1}{%
+        {C.H. Beck}%
+      }
+      \strng{namehash}{3e45a4ad185d13474ae96f0f0badce0e}
+      \strng{fullhash}{3e45a4ad185d13474ae96f0f0badce0e}
+      \strng{fullhashraw}{3e45a4ad185d13474ae96f0f0badce0e}
+      \strng{bibnamehash}{3e45a4ad185d13474ae96f0f0badce0e}
+      \strng{authorbibnamehash}{3e45a4ad185d13474ae96f0f0badce0e}
+      \strng{authornamehash}{3e45a4ad185d13474ae96f0f0badce0e}
+      \strng{authorfullhash}{3e45a4ad185d13474ae96f0f0badce0e}
+      \strng{authorfullhashraw}{3e45a4ad185d13474ae96f0f0badce0e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Der Deutsche Orden: Zwölf Kapitel aus seiner Geschichte}
+      \field{year}{1981}
+    \endentry
     \entry{wiki_burg_raabs}{online}{}{}
       \list{organization}{1}{%
         {Wikipedia}%
@@ -161,6 +219,185 @@
       \field{title}{Burgen und Schlösser der österreichisch-mährischen Thaya-Region}
       \field{year}{2013}
     \endentry
+    \entry{koebler_nhd_mhd}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=19ed547184873d5f7558f5dee6197d0d}{%
+           family={Köbler},
+           familyi={K\bibinitperiod},
+           given={Gerhard},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{19ed547184873d5f7558f5dee6197d0d}
+      \strng{fullhash}{19ed547184873d5f7558f5dee6197d0d}
+      \strng{fullhashraw}{19ed547184873d5f7558f5dee6197d0d}
+      \strng{bibnamehash}{19ed547184873d5f7558f5dee6197d0d}
+      \strng{authorbibnamehash}{19ed547184873d5f7558f5dee6197d0d}
+      \strng{authornamehash}{19ed547184873d5f7558f5dee6197d0d}
+      \strng{authorfullhash}{19ed547184873d5f7558f5dee6197d0d}
+      \strng{authorfullhashraw}{19ed547184873d5f7558f5dee6197d0d}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{note}{Online-Ressource}
+      \field{title}{Neuhochdeutsch-mittelhochdeutsches Wörterbuch}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.koeblergerhard.de/mhd/mhd_n.html
+      \endverb
+      \verb{url}
+      \verb https://www.koeblergerhard.de/mhd/mhd_n.html
+      \endverb
+    \endentry
+    \entry{lechner_babenberger}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=45b73cfff0491a45269826f9d6f2282b}{%
+           family={Lechner},
+           familyi={L\bibinitperiod},
+           given={Karl},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wien}%
+      }
+      \list{publisher}{1}{%
+        {Böhlau}%
+      }
+      \strng{namehash}{45b73cfff0491a45269826f9d6f2282b}
+      \strng{fullhash}{45b73cfff0491a45269826f9d6f2282b}
+      \strng{fullhashraw}{45b73cfff0491a45269826f9d6f2282b}
+      \strng{bibnamehash}{45b73cfff0491a45269826f9d6f2282b}
+      \strng{authorbibnamehash}{45b73cfff0491a45269826f9d6f2282b}
+      \strng{authornamehash}{45b73cfff0491a45269826f9d6f2282b}
+      \strng{authorfullhash}{45b73cfff0491a45269826f9d6f2282b}
+      \strng{authorfullhashraw}{45b73cfff0491a45269826f9d6f2282b}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Die Babenberger. Markgrafen und Herzoge von Österreich 976–1246}
+      \field{year}{1976}
+    \endentry
+    \entry{militzer_deutscher_orden}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=a4577a596f82176ecaf3b6d7867d77bb}{%
+           family={Militzer},
+           familyi={M\bibinitperiod},
+           given={Klaus},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stuttgart}%
+      }
+      \list{publisher}{1}{%
+        {W. Kohlhammer GmbH}%
+      }
+      \strng{namehash}{a4577a596f82176ecaf3b6d7867d77bb}
+      \strng{fullhash}{a4577a596f82176ecaf3b6d7867d77bb}
+      \strng{fullhashraw}{a4577a596f82176ecaf3b6d7867d77bb}
+      \strng{bibnamehash}{a4577a596f82176ecaf3b6d7867d77bb}
+      \strng{authorbibnamehash}{a4577a596f82176ecaf3b6d7867d77bb}
+      \strng{authornamehash}{a4577a596f82176ecaf3b6d7867d77bb}
+      \strng{authorfullhash}{a4577a596f82176ecaf3b6d7867d77bb}
+      \strng{authorfullhashraw}{a4577a596f82176ecaf3b6d7867d77bb}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Die Geschichte des Deutschen Ordens}
+      \field{year}{2005}
+    \endentry
+    \entry{monasterium_zwettl_1157}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=1083e33053eed4f76930756feab41123}{%
+           family={{Monasterium.net}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{1083e33053eed4f76930756feab41123}
+      \strng{fullhash}{1083e33053eed4f76930756feab41123}
+      \strng{fullhashraw}{1083e33053eed4f76930756feab41123}
+      \strng{bibnamehash}{1083e33053eed4f76930756feab41123}
+      \strng{authorbibnamehash}{1083e33053eed4f76930756feab41123}
+      \strng{authornamehash}{1083e33053eed4f76930756feab41123}
+      \strng{authorfullhash}{1083e33053eed4f76930756feab41123}
+      \strng{authorfullhashraw}{1083e33053eed4f76930756feab41123}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Urkunde: Papst Hadrian IV. für Abt Rapoto und den Konvent des Klosters S. Marie in Zwettl (14. Februar 1157)}
+      \field{title}{Papsturkunden vor 1198. Stiftsarchiv Zwettl, Urkunden 1157 II 14}
+      \field{year}{1157}
+      \verb{urlraw}
+      \verb https://www.monasterium.net/
+      \endverb
+      \verb{url}
+      \verb https://www.monasterium.net/
+      \endverb
+    \endentry
+    \entry{niederstaetter_oesterreich}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=a3a485157c87c4291eaf5c94b68b0685}{%
+           family={Niederstätter},
+           familyi={N\bibinitperiod},
+           given={Alois},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wien}%
+      }
+      \list{publisher}{1}{%
+        {Ueberreuter}%
+      }
+      \strng{namehash}{a3a485157c87c4291eaf5c94b68b0685}
+      \strng{fullhash}{a3a485157c87c4291eaf5c94b68b0685}
+      \strng{fullhashraw}{a3a485157c87c4291eaf5c94b68b0685}
+      \strng{bibnamehash}{a3a485157c87c4291eaf5c94b68b0685}
+      \strng{authorbibnamehash}{a3a485157c87c4291eaf5c94b68b0685}
+      \strng{authornamehash}{a3a485157c87c4291eaf5c94b68b0685}
+      \strng{authorfullhash}{a3a485157c87c4291eaf5c94b68b0685}
+      \strng{authorfullhashraw}{a3a485157c87c4291eaf5c94b68b0685}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Die Herrschaft Österreich: Fürst und Land im Spätmittelalter}
+      \field{year}{2001}
+    \endentry
+    \entry{sagen_thayatal}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=fa7bba0eb69863f13fb469ad719efbcc}{%
+           family={Pohanka},
+           familyi={P\bibinitperiod},
+           given={Josef},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wien}%
+      }
+      \list{publisher}{1}{%
+        {Verlag für Jugend und Volk}%
+      }
+      \strng{namehash}{fa7bba0eb69863f13fb469ad719efbcc}
+      \strng{fullhash}{fa7bba0eb69863f13fb469ad719efbcc}
+      \strng{fullhashraw}{fa7bba0eb69863f13fb469ad719efbcc}
+      \strng{bibnamehash}{fa7bba0eb69863f13fb469ad719efbcc}
+      \strng{authorbibnamehash}{fa7bba0eb69863f13fb469ad719efbcc}
+      \strng{authornamehash}{fa7bba0eb69863f13fb469ad719efbcc}
+      \strng{authorfullhash}{fa7bba0eb69863f13fb469ad719efbcc}
+      \strng{authorfullhashraw}{fa7bba0eb69863f13fb469ad719efbcc}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sagen aus dem Schmidatal und dem Manhartsberg}
+      \field{year}{1978}
+    \endentry
     \entry{wiki_raabs}{online}{}{}
       \list{organization}{1}{%
         {Wikipedia}%
@@ -169,6 +406,45 @@
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{labeltitlesource}{title}
       \field{title}{Raabs an der Thaya}
+    \endentry
+    \entry{reichhalter_kuehtreiber}{book}{}{}
+      \name{author}{3}{}{%
+        {{hash=68ee465b984fda0eb54f4a5d8bf2da6c}{%
+           family={Reichhalter},
+           familyi={R\bibinitperiod},
+           given={Gerhard},
+           giveni={G\bibinitperiod}}}%
+        {{hash=8bf87b105631341de26e75cf40d4720a}{%
+           family={Kühtreiber},
+           familyi={K\bibinitperiod},
+           given={Karin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=d1c1180eeca4b86dbbf1fb91482ff493}{%
+           family={Kühtreiber},
+           familyi={K\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {St. Pölten}%
+      }
+      \list{publisher}{1}{%
+        {Niederösterreichisches Pressehaus}%
+      }
+      \strng{namehash}{ff0ee3a684cea0c5894108fcb1199ba1}
+      \strng{fullhash}{ff0ee3a684cea0c5894108fcb1199ba1}
+      \strng{fullhashraw}{ff0ee3a684cea0c5894108fcb1199ba1}
+      \strng{bibnamehash}{ff0ee3a684cea0c5894108fcb1199ba1}
+      \strng{authorbibnamehash}{ff0ee3a684cea0c5894108fcb1199ba1}
+      \strng{authornamehash}{ff0ee3a684cea0c5894108fcb1199ba1}
+      \strng{authorfullhash}{ff0ee3a684cea0c5894108fcb1199ba1}
+      \strng{authorfullhashraw}{ff0ee3a684cea0c5894108fcb1199ba1}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Burgen Waldviertel Wachau}
+      \field{year}{2001}
     \endentry
     \entry{schneider_ottenstein}{article}{}{}
       \name{author}{1}{}{%
@@ -200,6 +476,35 @@
       \field{year}{1999}
       \field{pages}{337\bibrangedash 365}
       \range{pages}{29}
+    \endentry
+    \entry{selart_livland}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=bc5afc713a3613c265e035617817a96b}{%
+           family={Selart},
+           familyi={S\bibinitperiod},
+           given={Anti},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Köln}%
+      }
+      \list{publisher}{1}{%
+        {Böhlau}%
+      }
+      \strng{namehash}{bc5afc713a3613c265e035617817a96b}
+      \strng{fullhash}{bc5afc713a3613c265e035617817a96b}
+      \strng{fullhashraw}{bc5afc713a3613c265e035617817a96b}
+      \strng{bibnamehash}{bc5afc713a3613c265e035617817a96b}
+      \strng{authorbibnamehash}{bc5afc713a3613c265e035617817a96b}
+      \strng{authornamehash}{bc5afc713a3613c265e035617817a96b}
+      \strng{authorfullhash}{bc5afc713a3613c265e035617817a96b}
+      \strng{authorfullhashraw}{bc5afc713a3613c265e035617817a96b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Livland und die Rus' im 13. Jahrhundert}
+      \field{year}{2007}
     \endentry
     \entry{stenzel_burg_zu_burg}{book}{}{}
       \name{author}{1}{}{%

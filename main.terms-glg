@@ -1,7 +1,7 @@
 This is makeindex, version 2.16 [MiKTeX 25.4].
 Scanning style file ./main.ist...........................done (27 attributes redefined, 0 ignored).
-Scanning input file main.terms-glo....done (15 entries accepted, 0 rejected).
-Sorting entries....done (61 comparisons).
-Generating output file main.terms-gls....done (28 lines written, 0 warnings).
-Output written in main.terms-gls.
-Transcript written in main.terms-glg.
+Scanning input file c:/Users/maxim/Documents/GitHub/medieval_book/main.terms-glo....done (17 entries accepted, 0 rejected).
+Sorting entries....done (67 comparisons).
+Generating output file c:/Users/maxim/Documents/GitHub/medieval_book/main.terms-gls....done (30 lines written, 0 warnings).
+Output written in c:/Users/maxim/Documents/GitHub/medieval_book/main.terms-gls.
+Transcript written in c:/Users/maxim/Documents/GitHub/medieval_book/main.terms-glg.
