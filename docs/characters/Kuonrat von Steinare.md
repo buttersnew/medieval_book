@@ -20,10 +20,10 @@
 ## Bisheriger Verlauf
 - **[Das erste Buch]:** Als erstgeborener Sohn Hadmars von Steinære auf Burg Ottenstein geboren (~1213). Im elften Lebensjahr durch landesfürstliche Entscheidung mit Diemut von Raabs verlobt und als künftiger Lehnsträger zu Raabs bestimmt; damit kein Erbe der väterlichen Steinære-Güter. Über seine Kindheit bis zum vierzehnten Lebensjahr ist nichts Weiteres bekannt.
 - **[Das erste Buch]:** In seinem vierzehnten Lebensjahr nach Wochen schweren Regens auf Burg Ottenstein zum Knappen bestimmt und in den Dienst Kuonrâts von Hardegg geschickt. Erhält das Ross Veltlôufer und offenbart auf der Fahrt nach Hardegg bereits verletzlichen Stolz und Härte gegen Untergebene, indem er den Knecht für den Wegschlamm verantwortlich macht. [fiktional zulässig]
-- **[Das erste Buch]:** Bei seiner Ankunft auf Burg Hardegg wird er von Graf Konrad von Hardegg in einem Moment der offenen Frauenausbeutung "unterrichtet": Er beobachtet, wie Hardegg eine gefangene böhmische Frau auswählt, unterwirft und züchtigt. Der Knabe deutet dies als Beweis der übernatürlichen Macht von Worten, ahnt aber nicht die Tiefe der Gewalt und Drohungen dahinter. Dies wird die erste verderbliche Lektion in seiner Unterordnung unter Hardegg. [fiktional zulässig]
+- **[Das erste Buch]:** Bei seiner Ankunft auf Burg Hardegg wird er von Graf Kuonrat von Hardegg in einem Moment der offenen Frauenausbeutung "unterrichtet": Er beobachtet, wie Hardegg eine gefangene böhmische Frau auswählt, unterwirft und züchtigt. Der Knabe deutet dies als Beweis der übernatürlichen Macht von Worten, ahnt aber nicht die Tiefe der Gewalt und Drohungen dahinter. Dies wird die erste verderbliche Lektion in seiner Unterordnung unter Hardegg. [fiktional zulässig]
 
 ## Beziehungen
 - [Hadmar von Steinære](Hadmar%20von%20Steinare.md): Vater (ruhig, großzügig; betrachtet Kuonrâts Zügellosigkeit mit stiller Ratlosigkeit)
 - Veltlôufer: sein Streitross
-- [Konrad von Hardegg](Konrad%20von%20Hardegg.md): Namensvetter und Herr, in dessen Dienst er als Knappe tritt [gesichert/fiktional zugespitzt]
+- [Kuonrat von Hardegg](Kuonrat%20von%20Hardegg.md): Namensvetter und Herr, in dessen Dienst er als Knappe tritt [gesichert/fiktional zugespitzt]
 - [Knecht](Knecht.md): namenloser Diener, den er herabsetzt [fiktional zulässig]

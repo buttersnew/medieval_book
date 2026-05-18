@@ -1,17 +1,17 @@
 [0] Config.pm:328> INFO - This is Biber 2.21
 [0] Config.pm:331> INFO - Logfile is 'c:/Users/maxim/Documents/GitHub/medieval_book/main.blg'
-[79] biber-MSWIN64:342> INFO - === 
-[115] Biber.pm:421> INFO - Reading 'c:/Users/maxim/Documents/GitHub/medieval_book/main.bcf'
-[198] Biber.pm:1002> INFO - Found 22 citekeys in bib section 0
-[206] Biber.pm:4487> INFO - Processing section 0
-[214] Biber.pm:4678> INFO - Looking for bibtex file './content/bibliography.bib' for section 0
-[267] bibtex.pm:1713> INFO - LaTeX decoding ...
-[279] bibtex.pm:1519> INFO - Found BibTeX data source './content/bibliography.bib'
-[340] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[340] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[340] Biber.pm:4307> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'de-DE'
-[341] Biber.pm:4313> INFO - No sort tailoring available for locale 'de-DE'
-[353] bbl.pm:676> INFO - Writing 'c:/Users/maxim/Documents/GitHub/medieval_book/main.bbl' with encoding 'UTF-8'
-[358] bbl.pm:779> INFO - Output to c:/Users/maxim/Documents/GitHub/medieval_book/main.bbl
-[358] Biber.pm:132> WARN - legacy year field '1867-1868' in entry 'zeibig_klosterneuburg' is not an integer - this will probably not sort properly.
-[358] Biber.pm:134> INFO - WARNINGS: 1
+[84] biber-MSWIN64:342> INFO - === 
+[123] Biber.pm:421> INFO - Reading 'c:/Users/maxim/Documents/GitHub/medieval_book/main.bcf'
+[202] Biber.pm:1002> INFO - Found 22 citekeys in bib section 0
+[211] Biber.pm:4487> INFO - Processing section 0
+[218] Biber.pm:4678> INFO - Looking for bibtex file './content/bibliography.bib' for section 0
+[276] bibtex.pm:1713> INFO - LaTeX decoding ...
+[287] bibtex.pm:1519> INFO - Found BibTeX data source './content/bibliography.bib'
+[346] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[346] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[346] Biber.pm:4307> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'de-DE'
+[346] Biber.pm:4313> INFO - No sort tailoring available for locale 'de-DE'
+[360] bbl.pm:676> INFO - Writing 'c:/Users/maxim/Documents/GitHub/medieval_book/main.bbl' with encoding 'UTF-8'
+[364] bbl.pm:779> INFO - Output to c:/Users/maxim/Documents/GitHub/medieval_book/main.bbl
+[365] Biber.pm:132> WARN - legacy year field '1867-1868' in entry 'zeibig_klosterneuburg' is not an integer - this will probably not sort properly.
+[365] Biber.pm:134> INFO - WARNINGS: 1

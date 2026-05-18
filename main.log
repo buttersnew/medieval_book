@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.8.31)  18 MAY 2026 17:30
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.8.31)  18 MAY 2026 20:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2064,12 +2064,162 @@ File: content/concept_art/page_decoration_9.png Graphic file (type bmp)
 <content/concept_art/page_decoration_9.png>
 [10
 
-]) (frontmatter/map.tex
+]) (content/book 1/chapter5.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
+File: content/concept_art/page_decoration_2.png Graphic file (type bmp)
+<content/concept_art/page_decoration_2.png>
+File: content/concept_art/page_decoration_2.png Graphic file (type bmp)
+<content/concept_art/page_decoration_2.png>
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 18.85004pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.85004pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
+
+File: content/concept_art/page_decoration_2.png Graphic file (type bmp)
+<content/concept_art/page_decoration_2.png>
+File: content/concept_art/page_decoration_2.png Graphic file (type bmp)
+<content/concept_art/page_decoration_2.png>
 [11]
+
+File: content/concept_art/page_decoration_8.png Graphic file (type bmp)
+<content/concept_art/page_decoration_8.png>
+File: content/concept_art/page_decoration_8.png Graphic file (type bmp)
+<content/concept_art/page_decoration_8.png>
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 18.85004pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.85004pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
+
+File: content/concept_art/page_decoration_8.png Graphic file (type bmp)
+<content/concept_art/page_decoration_8.png>
+File: content/concept_art/page_decoration_8.png Graphic file (type bmp)
+<content/concept_art/page_decoration_8.png>
+[12]
+contour: Using 16 copies for `\textcolor {ManuscriptRed}{\carolingian D}' on in
+put line 5.
+contour: Using 16 copies for `\textcolor {ManuscriptRed}{\carolingian D}' on in
+put line 5.
+Package lettrine.sty Info: Targeted height = 38.061pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 34.49611pt (\contour{customgold}{\
+textcolor {ManuscriptRed}{\carolingian D}});
+(lettrine.sty)             reported on input line 5.
+
+Underfull \hbox (badness 2368) in paragraph at lines 11--12
+[]\TU/EBGaramond(0)/m/n/12 Die Hofdamen und Mägde, die im Dienst auf [][][]Hard
+egg[][] stan-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+File: content/concept_art/page_decoration_1.png Graphic file (type bmp)
+<content/concept_art/page_decoration_1.png>
+File: content/concept_art/page_decoration_1.png Graphic file (type bmp)
+<content/concept_art/page_decoration_1.png>
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 18.85004pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.85004pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
+
+File: content/concept_art/page_decoration_1.png Graphic file (type bmp)
+<content/concept_art/page_decoration_1.png>
+File: content/concept_art/page_decoration_1.png Graphic file (type bmp)
+<content/concept_art/page_decoration_1.png>
+[13
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+File: content/concept_art/page_decoration_7.png Graphic file (type bmp)
+<content/concept_art/page_decoration_7.png>
+File: content/concept_art/page_decoration_7.png Graphic file (type bmp)
+<content/concept_art/page_decoration_7.png>
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 18.85004pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.85004pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
+
+File: content/concept_art/page_decoration_7.png Graphic file (type bmp)
+<content/concept_art/page_decoration_7.png>
+File: content/concept_art/page_decoration_7.png Graphic file (type bmp)
+<content/concept_art/page_decoration_7.png>
+[14]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+File: content/concept_art/page_decoration_13.png Graphic file (type bmp)
+<content/concept_art/page_decoration_13.png>
+File: content/concept_art/page_decoration_13.png Graphic file (type bmp)
+<content/concept_art/page_decoration_13.png>
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 18.85004pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.85004pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
+
+File: content/concept_art/page_decoration_13.png Graphic file (type bmp)
+<content/concept_art/page_decoration_13.png>
+File: content/concept_art/page_decoration_13.png Graphic file (type bmp)
+<content/concept_art/page_decoration_13.png>
+[15]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+File: content/concept_art/page_decoration_6.png Graphic file (type bmp)
+<content/concept_art/page_decoration_6.png>
+File: content/concept_art/page_decoration_6.png Graphic file (type bmp)
+<content/concept_art/page_decoration_6.png>
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 18.85004pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.85004pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
+
+File: content/concept_art/page_decoration_6.png Graphic file (type bmp)
+<content/concept_art/page_decoration_6.png>
+File: content/concept_art/page_decoration_6.png Graphic file (type bmp)
+<content/concept_art/page_decoration_6.png>
+[16]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+File: content/concept_art/page_decoration_12.png Graphic file (type bmp)
+<content/concept_art/page_decoration_12.png>
+File: content/concept_art/page_decoration_12.png Graphic file (type bmp)
+<content/concept_art/page_decoration_12.png>
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 18.85004pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.85004pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
+
+File: content/concept_art/page_decoration_12.png Graphic file (type bmp)
+<content/concept_art/page_decoration_12.png>
+File: content/concept_art/page_decoration_12.png Graphic file (type bmp)
+<content/concept_art/page_decoration_12.png>
+[17]) (frontmatter/map.tex
 File: content/concept_art/map_v1.png Graphic file (type bmp)
 <content/concept_art/map_v1.png>
 
@@ -2077,11 +2227,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[12]
+[18]
 
-[13]) (main.gls) (main.acr) (main.sls) (main.terms-gls
+[19]) (main.gls) (main.acr) (main.sls) (main.terms-gls
 
-[14]
+[20]
 Package microtype Info: Character `156' is missing
 (microtype)             in font `\TU/EBGaramond(0)/b/it/12'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -2094,37 +2244,37 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[15
+[21
 
 
 ]
-
-Package hyperref Warning: Suppressing empty link on input line 33.
-
 
 Package hyperref Warning: Suppressing empty link on input line 35.
 
 
-Package hyperref Warning: Suppressing empty link on input line 38.
+Package hyperref Warning: Suppressing empty link on input line 37.
+
+
+Package hyperref Warning: Suppressing empty link on input line 40.
 
 ) (main.characters-gls
 
-[16]
+[22]
 
-[17
+[23
 
 
 ])
 
-[18]
+[24]
 Kapitel III.
 (content/appendix.tex
 
-[19
+[25
 
 ]
 
-[20]
+[26]
 Underfull \hbox (badness 1189) in paragraph at lines 24--25
 \TU/EBGaramond(0)/m/n/12 erhaft auf weitere Expansion in nowgorodisches Gebiet.
  Die Ost-
@@ -2132,9 +2282,9 @@ Underfull \hbox (badness 1189) in paragraph at lines 24--25
 
 
 
-[21]
+[27]
 
-[22]
+[28]
 Underfull \hbox (badness 1163) in paragraph at lines 46--47
 \TU/EBGaramond(0)/m/n/12 Im \TU/EBGaramond(0)/m/it/12 Waldviertel\TU/EBGaramond
 (0)/m/n/12 , dem waldreichen Hochland nördlich der Donau,
@@ -2145,7 +2295,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[23]
+[29]
 Underfull \hbox (badness 5274) in paragraph at lines 63--64
 []\TU/EBGaramond(0)/m/n/12 Erster namentlich belegter
  []
@@ -2157,7 +2307,7 @@ Underfull \hbox (badness 6808) in paragraph at lines 68--69
 
 
 
-[24]
+[30]
 Underfull \hbox (badness 10000) in paragraph at lines 70--71
 []\TU/EBGaramond(0)/m/n/12 Nachgeborener
  []
@@ -2219,14 +2369,14 @@ mond(0)/m/it/12 Thaya \TU/EBGaramond(0)/m/n/12 eine tiefe
 
 
 
-[25]
+[31]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[26]
+[32]
 
-[27]
+[33]
 Package microtype Info: Character `156' is missing
 (microtype)             in font `\TU/EBGaramond(0)/m/scit/12'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -2235,7 +2385,7 @@ Underfull \vbox (badness 1383) has occurred while \output is active []
 
 
 
-[28]
+[34]
 Underfull \hbox (badness 5893) in paragraph at lines 122--122
 []\TU/EBGaramond(0)/m/n/12 Nach dem Erlöschen der Raabser Grafen im Mannesstamm
 
@@ -2249,23 +2399,23 @@ amond(0)/m/n/12 heiratete Gebhard III. von Dollnstein-
 
 
 
-[29]
-
-[30]
-
-[31]
-
-[32]
-
-[33]
-
-[34]
-
 [35]
 
 [36]
 
-[37
+[37]
+
+[38]
+
+[39]
+
+[40]
+
+[41]
+
+[42]
+
+[43
 
 ]
 Underfull \hbox (badness 1371) in paragraph at lines 226--227
@@ -2287,7 +2437,7 @@ Fried-
 
 
 
-[38]
+[44]
 Underfull \hbox (badness 1107) in paragraph at lines 239--240
 []\TU/EBGaramond(0)/m/n/12 Ordensritter besetzen Pskow; Alexander Newski besieg
 t ein
@@ -2295,17 +2445,17 @@ t ein
 
 
 
-[39]
+[45]
 Underfull \hbox (badness 1107) in paragraph at lines 251--252
 []\TU/EBGaramond(0)/m/n/12 Ermordung Turan Schahs durch Mamelukenemire; Be-
  []
 
 
 
-[40])
+[46])
 
-[41]
-Underfull \hbox (badness 1661) in paragraph at lines 121--121
+[47]
+Underfull \hbox (badness 1661) in paragraph at lines 122--122
 []\TU/EBGaramond(0)/m/n/12 Institut für Realienkunde, Univ. Salzburg. \TU/EBGar
 amond(0)/m/it/12 Burg Ottenstein
  []
@@ -2315,13 +2465,13 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Underfull \hbox (badness 1248) in paragraph at lines 121--121
+Underfull \hbox (badness 1248) in paragraph at lines 122--122
 []\TU/EBGaramond(0)/m/n/12 Gerhard Köbler. \TU/EBGaramond(0)/m/it/12 Neuhochdeu
 tsch-mittelhochdeutsches Wörter-
  []
 
 
-Underfull \hbox (badness 3568) in paragraph at lines 121--121
+Underfull \hbox (badness 3568) in paragraph at lines 122--122
 \TU/EBGaramond(0)/m/it/12 buch\TU/EBGaramond(0)/m/n/12 . Online-Ressource. 2013
 . \TU/EBGaramond(0)/m/sc/12 url\TU/EBGaramond(0)/m/n/12 : [][]$[][][][][] [] []
  [] [][][] []
@@ -2329,13 +2479,13 @@ Underfull \hbox (badness 3568) in paragraph at lines 121--121
 
 
 
-[42
+[48
 
 ]
 
-[43] (frontmatter/backpage.tex
+[49] (frontmatter/backpage.tex
 
-[44
+[50
 
 
 ]
@@ -2345,24 +2495,24 @@ File: content/concept_art/logo-white.png Graphic file (type bmp)
 <content/concept_art/logo-white.png>
 )
 
-[45] (main.aux)
+[51] (main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-20>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 85A869AFF166D963DF1142956BEB3581;3173.
+(rerunfilecheck)             Checksum: D8E148A052240A2F63ADD5F06DC3E0C9;3447.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 46497 strings out of 403250
- 965969 string characters out of 5460888
- 1919108 words of memory out of 5000000
- 74221 multiletter control sequences out of 15000+600000
+ 46606 strings out of 403250
+ 969436 string characters out of 5460888
+ 1920685 words of memory out of 5000000
+ 74322 multiletter control sequences out of 15000+600000
  630931 words of font info for 95 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
- 99i,15n,107p,2550b,5401s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,16n,107p,2550b,5401s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (53 pages).
+Output written on main.pdf (59 pages).
