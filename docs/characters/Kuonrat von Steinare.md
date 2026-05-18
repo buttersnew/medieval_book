@@ -18,8 +18,11 @@
 *   **Autoritätsfeindlich:** Lehnt jede Form von weltlicher Herrschaft ab (insbesondere Herrscher aus deutschen Landen).
 
 ## Bisheriger Verlauf
-- **[Das erste Buch]:** Als erstgeborener Sohn Hadmars von Steinære auf Burg Ottenstein geboren (~1213). Im elften Lebensjahr durch landesfürstliche Entscheidung mit Denîse von Raabs verlobt und als künftiger Lehnsträger zu Raabs bestimmt; damit kein Erbe der väterlichen Steinære-Güter. Über seine Kindheit bis zum vierzehnten Lebensjahr ist nichts Weiteres bekannt.
+- **[Das erste Buch]:** Als erstgeborener Sohn Hadmars von Steinære auf Burg Ottenstein geboren (~1213). Im elften Lebensjahr durch landesfürstliche Entscheidung mit Diemut von Raabs verlobt und als künftiger Lehnsträger zu Raabs bestimmt; damit kein Erbe der väterlichen Steinære-Güter. Über seine Kindheit bis zum vierzehnten Lebensjahr ist nichts Weiteres bekannt.
+- **[Das erste Buch]:** In seinem vierzehnten Lebensjahr nach Wochen schweren Regens auf Burg Ottenstein zum Knappen bestimmt und in den Dienst Kuonrâts von Hardegg geschickt. Erhält das Ross Veltlôufer und offenbart auf der Fahrt nach Hardegg bereits verletzlichen Stolz und Härte gegen Untergebene, indem er den Knecht für den Wegschlamm verantwortlich macht. [fiktional zulässig]
 
 ## Beziehungen
 - [Hadmar von Steinære](Hadmar%20von%20Steinare.md): Vater (ruhig, großzügig; betrachtet Kuonrâts Zügellosigkeit mit stiller Ratlosigkeit)
 - Veltlôufer: sein Streitross
+- [Konrad von Hardegg](Konrad%20von%20Hardegg.md): Namensvetter und Herr, in dessen Dienst er als Knappe tritt [gesichert/fiktional zugespitzt]
+- [Knecht](Knecht.md): namenloser Diener, den er herabsetzt [fiktional zulässig]

@@ -4,13 +4,14 @@
 \contentsline {chapter}{\numberline {II}Leben in Oesterr\^{\i }che}{4}{chapter.2}%
 \contentsline {section}{\numberline {I}Von dem Geschlecht der Ottensteiner}{4}{section.2.1}%
 \contentsline {section}{\numberline {II}Von Kuonrâts Geburt und seiner frühen Jugend}{6}{section.2.2}%
-\contentsline {chapter}{Glossary}{10}{section*.3}%
-\contentsline {chapter}{Characters}{12}{section*.5}%
-\contentsline {chapter}{\numberline {III}Appendix}{13}{chapter.3}%
-\contentsline {section}{\numberline {I}Historischer Kontext}{13}{section.3.1}%
-\contentsline {subsection}{\numberline {I.I}Deutscher Orden}{13}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {I.II}Das Ende der Babenberger und Niederösterreich}{16}{subsection.3.1.2}%
-\contentsline {subsection}{\numberline {I.III}Ägypten und die Kreuzzüge des 13. Jahrhunderts}{24}{subsection.3.1.3}%
-\contentsline {subsection}{\numberline {I.IV}Die Kaiser des Heiligen Römischen Reiches}{27}{subsection.3.1.4}%
-\contentsline {section}{\numberline {II}Chronologische Übersicht}{31}{section.3.2}%
-\contentsline {chapter}{Literaturverzeichnis}{36}{chapter*.7}%
+\contentsline {section}{\numberline {III}Von Kuonrats vierzehntem Jahre}{8}{section.2.3}%
+\contentsline {chapter}{Glossary}{12}{section*.3}%
+\contentsline {chapter}{Characters}{14}{section*.5}%
+\contentsline {chapter}{\numberline {III}Appendix}{16}{chapter.3}%
+\contentsline {section}{\numberline {I}Historischer Kontext}{16}{section.3.1}%
+\contentsline {subsection}{\numberline {I.I}Deutscher Orden}{16}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {I.II}Das Ende der Babenberger und Niederösterreich}{19}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {I.III}Ägypten und die Kreuzzüge des 13. Jahrhunderts}{27}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {I.IV}Die Kaiser des Heiligen Römischen Reiches}{30}{subsection.3.1.4}%
+\contentsline {section}{\numberline {II}Chronologische Übersicht}{34}{section.3.2}%
+\contentsline {chapter}{Literaturverzeichnis}{39}{chapter*.7}%

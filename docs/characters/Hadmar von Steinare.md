@@ -13,6 +13,7 @@ Hadmar ist ein stiller, bedächtiger Mann — kein Krieger aus Leidenschaft, abe
 
 ## Bisheriger Verlauf
 - **[Das erste Buch]:** Als jüngerer Sohn Hugos de Ottenstaine und Vertreter der Steinære-Nebenlinie eingeführt. Führte das verkürzte Prädiktat, kein Erbanspruch auf Burg Ottenstein. Vater Kuonrâts und Niclâs'.
+- **[Das erste Buch]:** Lässt Kuonrât im vierzehnten Lebensjahr zum Knappen bestimmen und schickt ihn in den Dienst des Grafen von Hardegg. Übergibt ihm zum Aufbruch das Ross Veltlôufer. [fiktional zulässig]
 
 ## Beziehungen
 - [Kuonrât von Steinære](Kuonrat%20von%20Steinare.md): Sohn (jüngerer, nachgeborener)

@@ -534,6 +534,72 @@
       \field{pages}{54}
       \range{pages}{1}
     \endentry
+    \entry{melk_1114}{online}{}{}
+      \list{organization}{1}{%
+        {Stift Melk}%
+      }
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labeltitlesource}{title}
+      \field{title}{Urkunden (1075-1912) 1114}
+      \verb{urlraw}
+      \verb https://www.monasterium.net/mom/AT-StiAM/MelkOSB/1114/charter?q=Diemut
+      \endverb
+      \verb{url}
+      \verb https://www.monasterium.net/mom/AT-StiAM/MelkOSB/1114/charter?q=Diemut
+      \endverb
+    \endentry
+    \entry{melk_1359}{online}{}{}
+      \list{organization}{1}{%
+        {Stift Melk / Monasterium.net}%
+      }
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labeltitlesource}{title}
+      \field{note}{Siegelnde Person: "Wolfhart der Spiegelhouer" (Sieglerliste)}
+      \field{title}{Urkunden (1075-1912) 1359 II 02}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{1359}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.monasterium.net/mom/AT-StiAM/MelkOSB/1359_II_02/charter?q=Wolfhart
+      \endverb
+      \verb{url}
+      \verb https://www.monasterium.net/mom/AT-StiAM/MelkOSB/1359_II_02/charter?q=Wolfhart
+      \endverb
+    \endentry
+    \entry{zeibig_klosterneuburg}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=db7a580eb275fbb5963890c93dcfbda9}{%
+           family={Zeibig},
+           familyi={Z\bibinitperiod},
+           given={Hartmann},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wien}%
+      }
+      \list{publisher}{1}{%
+        {K. K. Hof- und Staatsdruckerei}%
+      }
+      \strng{namehash}{db7a580eb275fbb5963890c93dcfbda9}
+      \strng{fullhash}{db7a580eb275fbb5963890c93dcfbda9}
+      \strng{fullhashraw}{db7a580eb275fbb5963890c93dcfbda9}
+      \strng{bibnamehash}{db7a580eb275fbb5963890c93dcfbda9}
+      \strng{authorbibnamehash}{db7a580eb275fbb5963890c93dcfbda9}
+      \strng{authornamehash}{db7a580eb275fbb5963890c93dcfbda9}
+      \strng{authorfullhash}{db7a580eb275fbb5963890c93dcfbda9}
+      \strng{authorfullhashraw}{db7a580eb275fbb5963890c93dcfbda9}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Fontes rerum Austriacarum}
+      \field{title}{Urkundenbuch des Stiftes Klosterneuburg bis zum Ende des vierzehnten Jahrhunderts}
+      \field{year}{1867-1868}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

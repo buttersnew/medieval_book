@@ -68,6 +68,8 @@ Einen `\newglossaryentry`-Block **nach dem letzten bestehenden Eintrag** einfüg
   - `\textbf{Fiktionale Figur}` — wenn erfunden (ggf. `\textbf{Fiktionale Figur (historisches Umfeld zulässig)}` bei eingebettetem Kontext)
 
 ### LaTeX-Kodierung für MHG-Sonderzeichen
+Normale deutsche Umlaute im Fließtext und in Markdown-Dateien werden direkt als `ä`, `ö`, `ü` geschrieben. Sie werden **nicht** als `ae`, `oe`, `ue` ersetzt. Die LaTeX-Kodierung ist nur für echte MHG-Sonderzeichen wie `â`, `ô`, `î`, `û`, `æ`, `œ` nötig.
+
 | Zeichen | LaTeX |
 |---------|-------|
 | â       | `\^{a}` |
@@ -87,3 +89,4 @@ Einen `\newglossaryentry`-Block **nach dem letzten bestehenden Eintrag** einfüg
 - NIEMALS bestehende Einträge überschreiben — erst mit `search` prüfen ob der Charakter bereits existiert
 - Namen ausschließlich in mittelhochdeutscher oder mönchisch-transkribierter Form verwenden
 - Die `docs/`-Datei ist ausführlich; die `character_register.tex`-Beschreibung ist knapp
+- Normale deutsche Umlaute `ä`, `ö`, `ü` niemals zu `ae`, `oe`, `ue` umschreiben

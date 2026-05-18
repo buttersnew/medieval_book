@@ -32,7 +32,7 @@ Dateien in `docs/chapters/` dokumentieren Kapitel für den Konsistenz-Check des 
 
 ## Regeln
 
-- Eine Datei pro `\chapter{}` in `main.tex` – **nicht** pro `\section{}`.
+- Eine Datei pro `\section{}` in `main.tex` / pro Kapitel-Datei (`chapterN.tex`).
 - Zusammenfassung nach dem Schreiben des Kapitels anlegen, nie vorher.
 - Offene Handlungsfäden müssen im Folgekapitel aufgelöst oder explizit weitergeführt werden.
 - Neue Glossareinträge (mhd. Begriffe, Orte) die im Kapitel eingeführt wurden hier kurz vermerken, damit sie auffindbar bleiben.

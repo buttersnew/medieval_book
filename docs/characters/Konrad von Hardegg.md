@@ -8,13 +8,14 @@
 - **Erste Erwaehnung:** Charakterregister
 
 ## Beschreibung
-Konrad von Hardegg ist als hochadeliger Graf im bayerisch-oesterreichischen Raum des 13. Jahrhunderts belegt. [gesichert] In der Romanfassung wird er als streitsuechtig und dem Trunk verfallen gezeichnet.  Gegenueber Frauen tritt er offen veraechtlich und entwuerdigend auf; seine Sexualitaet ist triebhaft und kontrollarm angelegt.  Diese Zuspitzungen dienen der Figurenzeichnung und sind fuer den Roman nicht als historischer Nachweis zu lesen.
+Kuonr\^{a}t von Hardegg ist als hochadeliger Graf im bayerisch-oesterreichischen Raum des 13. Jahrhunderts belegt. [gesichert] In der Romanfassung wird er als streitsuechtig und dem Trunk verfallen gezeichnet.  Gegenueber Frauen tritt er offen veraechtlich und entwuerdigend auf; seine Sexualitaet ist triebhaft und kontrollarm angelegt.  Diese Zuspitzungen dienen der Figurenzeichnung und sind fuer den Roman nicht als historischer Nachweis zu lesen.
 
 ## Bisheriger Verlauf
-*(Noch keine Kapitel vorhanden.)*
+- **[Das erste Buch]:** Nimmt den vierzehnjährigen Kuonrât von Steinære als Knappen in seinen Dienst. Die spätere Erzählung rückt ihn damit früh als hochadelige Bezugsfigur im Lebensweg des Protagonisten ein. [gesichert/fiktional zugespitzt]
 
 ## Beziehungen
 - Haus Plain-Hardegg: Dynastische Zugehoerigkeit [gesichert]
 - Bertha (zweite Ehefrau): Eheverbindung [wahrscheinlich]
 - Otto II. von Plain-Hardegg: Sohn [wahrscheinlich]
-- Konrad II. von Plain-Hardegg: Sohn [wahrscheinlich]
+- Kuonr\^{a}t II. von Plain-Hardegg: Sohn [wahrscheinlich]
+- [Kuonrat von Steinare](Kuonrat%20von%20Steinare.md): junger Namensvetter und Knappe in seinem Dienst [fiktional zulässig]
