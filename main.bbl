@@ -1,0 +1,235 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{wiki_burg_raabs}{online}{}{}
+      \list{organization}{1}{%
+        {Wikipedia}%
+      }
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labeltitlesource}{title}
+      \field{title}{Burg Raabs an der Thaya}
+    \endentry
+    \entry{burgen_austria_ottenstein}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=fff8d14f8119b667714be451a1c00b6a}{%
+           family={Hammerl},
+           familyi={H\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {burgen-austria.com}%
+      }
+      \strng{namehash}{fff8d14f8119b667714be451a1c00b6a}
+      \strng{fullhash}{fff8d14f8119b667714be451a1c00b6a}
+      \strng{fullhashraw}{fff8d14f8119b667714be451a1c00b6a}
+      \strng{bibnamehash}{fff8d14f8119b667714be451a1c00b6a}
+      \strng{authorbibnamehash}{fff8d14f8119b667714be451a1c00b6a}
+      \strng{authornamehash}{fff8d14f8119b667714be451a1c00b6a}
+      \strng{authorfullhash}{fff8d14f8119b667714be451a1c00b6a}
+      \strng{authorfullhashraw}{fff8d14f8119b667714be451a1c00b6a}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ottenstein}
+    \endentry
+    \entry{hopf_raabs}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=05da289fc9136607c1e2e7ba71aacb61}{%
+           family={Hopf},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{05da289fc9136607c1e2e7ba71aacb61}
+      \strng{fullhash}{05da289fc9136607c1e2e7ba71aacb61}
+      \strng{fullhashraw}{05da289fc9136607c1e2e7ba71aacb61}
+      \strng{bibnamehash}{05da289fc9136607c1e2e7ba71aacb61}
+      \strng{authorbibnamehash}{05da289fc9136607c1e2e7ba71aacb61}
+      \strng{authornamehash}{05da289fc9136607c1e2e7ba71aacb61}
+      \strng{authorfullhash}{05da289fc9136607c1e2e7ba71aacb61}
+      \strng{authorfullhashraw}{05da289fc9136607c1e2e7ba71aacb61}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Zur Geschichte der Herren von Nürnberg-Raabs}
+      \field{year}{2020}
+    \endentry
+    \entry{noe_burgen_online_ottenstein}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=b03529a37a87f78787f4a7f67a92b904}{%
+           family={{Institut für Realienkunde, Univ. Salzburg}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {NÖ-Burgen online}%
+      }
+      \strng{namehash}{b03529a37a87f78787f4a7f67a92b904}
+      \strng{fullhash}{b03529a37a87f78787f4a7f67a92b904}
+      \strng{fullhashraw}{b03529a37a87f78787f4a7f67a92b904}
+      \strng{bibnamehash}{b03529a37a87f78787f4a7f67a92b904}
+      \strng{authorbibnamehash}{b03529a37a87f78787f4a7f67a92b904}
+      \strng{authornamehash}{b03529a37a87f78787f4a7f67a92b904}
+      \strng{authorfullhash}{b03529a37a87f78787f4a7f67a92b904}
+      \strng{authorfullhashraw}{b03529a37a87f78787f4a7f67a92b904}
+      \field{extraname}{1}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Burg Ottenstein (Burgid 2158)}
+    \endentry
+    \entry{noe_burgen_online_raabs}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=b03529a37a87f78787f4a7f67a92b904}{%
+           family={{Institut für Realienkunde, Univ. Salzburg}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {NÖ-Burgen online}%
+      }
+      \strng{namehash}{b03529a37a87f78787f4a7f67a92b904}
+      \strng{fullhash}{b03529a37a87f78787f4a7f67a92b904}
+      \strng{fullhashraw}{b03529a37a87f78787f4a7f67a92b904}
+      \strng{bibnamehash}{b03529a37a87f78787f4a7f67a92b904}
+      \strng{authorbibnamehash}{b03529a37a87f78787f4a7f67a92b904}
+      \strng{authornamehash}{b03529a37a87f78787f4a7f67a92b904}
+      \strng{authorfullhash}{b03529a37a87f78787f4a7f67a92b904}
+      \strng{authorfullhashraw}{b03529a37a87f78787f4a7f67a92b904}
+      \field{extraname}{2}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Burg Raabs (Burgid 2188)}
+    \endentry
+    \entry{kacetl_thayatal}{book}{}{}
+      \name{author}{3}{}{%
+        {{hash=4702869ad1b40cfdb235fdc33b14a97e}{%
+           family={Kacetl},
+           familyi={K\bibinitperiod},
+           given={Jiři},
+           giveni={J\bibinitperiod}}}%
+        {{hash=35ad45fec4a21171b8bf3cf365c5948d}{%
+           family={Lazarek},
+           familyi={L\bibinitperiod},
+           given={Petr},
+           giveni={P\bibinitperiod}}}%
+        {{hash=9c0c6911fd8baaa7a8c77f82d77af045}{%
+           family={Molík},
+           familyi={M\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Znojmo}%
+      }
+      \list{publisher}{1}{%
+        {Südmährisches Museum in Znaim}%
+      }
+      \strng{namehash}{446ea2bda4270f0dd7868a3c224a0bf1}
+      \strng{fullhash}{446ea2bda4270f0dd7868a3c224a0bf1}
+      \strng{fullhashraw}{446ea2bda4270f0dd7868a3c224a0bf1}
+      \strng{bibnamehash}{446ea2bda4270f0dd7868a3c224a0bf1}
+      \strng{authorbibnamehash}{446ea2bda4270f0dd7868a3c224a0bf1}
+      \strng{authornamehash}{446ea2bda4270f0dd7868a3c224a0bf1}
+      \strng{authorfullhash}{446ea2bda4270f0dd7868a3c224a0bf1}
+      \strng{authorfullhashraw}{446ea2bda4270f0dd7868a3c224a0bf1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Burgen und Schlösser der österreichisch-mährischen Thaya-Region}
+      \field{year}{2013}
+    \endentry
+    \entry{wiki_raabs}{online}{}{}
+      \list{organization}{1}{%
+        {Wikipedia}%
+      }
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labeltitlesource}{title}
+      \field{title}{Raabs an der Thaya}
+    \endentry
+    \entry{schneider_ottenstein}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=284e2ab07530283b3faf36ffa95405b1}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={Günter},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Horn}%
+      }
+      \strng{namehash}{284e2ab07530283b3faf36ffa95405b1}
+      \strng{fullhash}{284e2ab07530283b3faf36ffa95405b1}
+      \strng{fullhashraw}{284e2ab07530283b3faf36ffa95405b1}
+      \strng{bibnamehash}{284e2ab07530283b3faf36ffa95405b1}
+      \strng{authorbibnamehash}{284e2ab07530283b3faf36ffa95405b1}
+      \strng{authornamehash}{284e2ab07530283b3faf36ffa95405b1}
+      \strng{authorfullhash}{284e2ab07530283b3faf36ffa95405b1}
+      \strng{authorfullhashraw}{284e2ab07530283b3faf36ffa95405b1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Das Waldviertel}
+      \field{number}{4}
+      \field{title}{Ottensteiner und Rastenberger -- Waren die beiden Geschlechter miteinander verwandt?}
+      \field{volume}{48}
+      \field{year}{1999}
+      \field{pages}{337\bibrangedash 365}
+      \range{pages}{29}
+    \endentry
+    \entry{stenzel_burg_zu_burg}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=854b603112c2f53f05f4aa70be24b874}{%
+           family={Stenzel},
+           familyi={S\bibinitperiod},
+           given={Gerhard},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wien}%
+      }
+      \strng{namehash}{854b603112c2f53f05f4aa70be24b874}
+      \strng{fullhash}{854b603112c2f53f05f4aa70be24b874}
+      \strng{fullhashraw}{854b603112c2f53f05f4aa70be24b874}
+      \strng{bibnamehash}{854b603112c2f53f05f4aa70be24b874}
+      \strng{authorbibnamehash}{854b603112c2f53f05f4aa70be24b874}
+      \strng{authornamehash}{854b603112c2f53f05f4aa70be24b874}
+      \strng{authorfullhash}{854b603112c2f53f05f4aa70be24b874}
+      \strng{authorfullhashraw}{854b603112c2f53f05f4aa70be24b874}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Von Burg zu Burg in Österreich}
+      \field{year}{1973}
+      \field{pages}{54}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

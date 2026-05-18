@@ -70,6 +70,11 @@
 \input{content/glossary}
 \input{content/character_register}
 \makeglossaries
+
+% Bibliography
+\usepackage[backend=biber,style=numeric]{biblatex}
+\addbibresource{content/bibliography.bib}
+
 \begin{document}
 
 % Front matter
@@ -108,6 +113,9 @@
 % \printglossary[type=characters, title=Characters]
 \chapter{Appendix}
 \input{content/appendix}%
+
+% Bibliography
+\printbibliography[heading=bibintoc, title={Literaturverzeichnis}]
 
 % Back matter
 \backmatter

@@ -1,6 +1,6 @@
 ---
 name: historical-research
-description: "Recherche von historischem Kontext für das Buchprojekt (1200–1300, Österreich, Böhmen, Baltikum, Ägypten). Verwende diesen Skill wenn: historische Fakten zu einer Person, einem Ort oder einem Ereignis benötigt werden; ein Glossareintrag oder Charaktereintrag mit historischem Kontext gefüllt werden soll; geprüft werden soll ob eine Szene oder ein Detail historisch plausibel ist; politische, religiöse oder kulturelle Verhältnisse der Epoche erklärt werden sollen."
+description: "Recherche von historischem Kontext für das Buchprojekt (1200–1300, Österreich, Böhmen, Baltikum, Ägypten). Verwende diesen Skill wenn: historische Fakten zu einer Person, einem Ort oder einem Ereignis benötigt werden; ein Glossareintrag, Charaktereintrag oder Eintrag im Literaturverzeichnis mit Kontext gefüllt werden soll; geprüft werden soll ob Details/Szenen historisch plausibel sind; politische, religiöse oder kulturelle Verhältnisse der Epoche entsprechen."
 ---
 
 # Historische Recherche – 13. Jahrhundert
@@ -119,4 +119,5 @@ Freitext mit:
 - [ ] Region korrekt zugeordnet
 - [ ] Verlässlichkeitsgrad angegeben (`[gesichert]` / `[wahrscheinlich]` / `[fiktional zulässig]`)
 - [ ] Anachronismen markiert oder ausgeschlossen
-- [ ] Ergebnis in passendem Format (Glossar, Charakterregister oder Freitext) aufbereitet
+- [ ] Quellenangabe (Primärquelle oder Fachliteratur) bereitgestellt und in Literaturverzeichnis aufgenommen
+- [ ] Ergebnis in passendem Format (Glossar, Charakterregister oder Freitext) aufbereitet und Quelle korrekt zitiert
