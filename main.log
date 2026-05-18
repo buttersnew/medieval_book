@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.8.31)  18 MAY 2026 20:15
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.8.31)  18 MAY 2026 20:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2219,7 +2219,122 @@ File: content/concept_art/page_decoration_12.png Graphic file (type bmp)
 <content/concept_art/page_decoration_12.png>
 File: content/concept_art/page_decoration_12.png Graphic file (type bmp)
 <content/concept_art/page_decoration_12.png>
-[17]) (frontmatter/map.tex
+[17]) (content/book 1/chapter6.tex
+
+File: content/concept_art/page_decoration_5.png Graphic file (type bmp)
+<content/concept_art/page_decoration_5.png>
+File: content/concept_art/page_decoration_5.png Graphic file (type bmp)
+<content/concept_art/page_decoration_5.png>
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 18.85004pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.85004pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
+
+File: content/concept_art/page_decoration_5.png Graphic file (type bmp)
+<content/concept_art/page_decoration_5.png>
+File: content/concept_art/page_decoration_5.png Graphic file (type bmp)
+<content/concept_art/page_decoration_5.png>
+[18]
+contour: Using 16 copies for `\textcolor {ManuscriptRed}{\carolingian I}' on in
+put line 5.
+contour: Using 16 copies for `\textcolor {ManuscriptRed}{\carolingian I}' on in
+put line 5.
+Package lettrine.sty Info: Targeted height = 38.061pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 34.49611pt (\contour{customgold}{\
+textcolor {ManuscriptRed}{\carolingian I}});
+(lettrine.sty)             reported on input line 5.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+File: content/concept_art/page_decoration_11.png Graphic file (type bmp)
+<content/concept_art/page_decoration_11.png>
+File: content/concept_art/page_decoration_11.png Graphic file (type bmp)
+<content/concept_art/page_decoration_11.png>
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 18.85004pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.85004pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
+
+File: content/concept_art/page_decoration_11.png Graphic file (type bmp)
+<content/concept_art/page_decoration_11.png>
+File: content/concept_art/page_decoration_11.png Graphic file (type bmp)
+<content/concept_art/page_decoration_11.png>
+[19
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+File: content/concept_art/page_decoration_4.png Graphic file (type bmp)
+<content/concept_art/page_decoration_4.png>
+File: content/concept_art/page_decoration_4.png Graphic file (type bmp)
+<content/concept_art/page_decoration_4.png>
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 18.85004pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.85004pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
+
+File: content/concept_art/page_decoration_4.png Graphic file (type bmp)
+<content/concept_art/page_decoration_4.png>
+File: content/concept_art/page_decoration_4.png Graphic file (type bmp)
+<content/concept_art/page_decoration_4.png>
+[20]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+File: content/concept_art/page_decoration_10.png Graphic file (type bmp)
+<content/concept_art/page_decoration_10.png>
+File: content/concept_art/page_decoration_10.png Graphic file (type bmp)
+<content/concept_art/page_decoration_10.png>
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 18.85004pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.85004pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
+
+File: content/concept_art/page_decoration_10.png Graphic file (type bmp)
+<content/concept_art/page_decoration_10.png>
+File: content/concept_art/page_decoration_10.png Graphic file (type bmp)
+<content/concept_art/page_decoration_10.png>
+[21]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+File: content/concept_art/page_decoration_3.png Graphic file (type bmp)
+<content/concept_art/page_decoration_3.png>
+File: content/concept_art/page_decoration_3.png Graphic file (type bmp)
+<content/concept_art/page_decoration_3.png>
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 18.85004pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.85004pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
+
+File: content/concept_art/page_decoration_3.png Graphic file (type bmp)
+<content/concept_art/page_decoration_3.png>
+File: content/concept_art/page_decoration_3.png Graphic file (type bmp)
+<content/concept_art/page_decoration_3.png>
+[22]
+Underfull \hbox (badness 1609) in paragraph at lines 67--68
+[]\TU/EBGaramond(0)/m/n/12 Zurück auf der Burg [][][]Hardegg[][] ließ [][][]Kuo
+nrât von Steinære[][] den
+ []
+
+) (frontmatter/map.tex
 File: content/concept_art/map_v1.png Graphic file (type bmp)
 <content/concept_art/map_v1.png>
 
@@ -2227,11 +2342,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[18]
+[23]
 
-[19]) (main.gls) (main.acr) (main.sls) (main.terms-gls
+[24]) (main.gls) (main.acr) (main.sls) (main.terms-gls
 
-[20]
+[25]
 Package microtype Info: Character `156' is missing
 (microtype)             in font `\TU/EBGaramond(0)/b/it/12'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -2244,37 +2359,39 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[21
+[26
 
 
 ]
-
-Package hyperref Warning: Suppressing empty link on input line 35.
-
 
 Package hyperref Warning: Suppressing empty link on input line 37.
 
 
-Package hyperref Warning: Suppressing empty link on input line 40.
+Package hyperref Warning: Suppressing empty link on input line 39.
 
-) (main.characters-gls
 
-[22]
+Package hyperref Warning: Suppressing empty link on input line 46.
 
-[23
+
+
+[27]) (main.characters-gls
+
+[28]
+
+[29
 
 
 ])
 
-[24]
+[30]
 Kapitel III.
 (content/appendix.tex
 
-[25
+[31
 
 ]
 
-[26]
+[32]
 Underfull \hbox (badness 1189) in paragraph at lines 24--25
 \TU/EBGaramond(0)/m/n/12 erhaft auf weitere Expansion in nowgorodisches Gebiet.
  Die Ost-
@@ -2282,9 +2399,9 @@ Underfull \hbox (badness 1189) in paragraph at lines 24--25
 
 
 
-[27]
+[33]
 
-[28]
+[34]
 Underfull \hbox (badness 1163) in paragraph at lines 46--47
 \TU/EBGaramond(0)/m/n/12 Im \TU/EBGaramond(0)/m/it/12 Waldviertel\TU/EBGaramond
 (0)/m/n/12 , dem waldreichen Hochland nördlich der Donau,
@@ -2295,7 +2412,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[29]
+[35]
 Underfull \hbox (badness 5274) in paragraph at lines 63--64
 []\TU/EBGaramond(0)/m/n/12 Erster namentlich belegter
  []
@@ -2307,7 +2424,7 @@ Underfull \hbox (badness 6808) in paragraph at lines 68--69
 
 
 
-[30]
+[36]
 Underfull \hbox (badness 10000) in paragraph at lines 70--71
 []\TU/EBGaramond(0)/m/n/12 Nachgeborener
  []
@@ -2369,14 +2486,14 @@ mond(0)/m/it/12 Thaya \TU/EBGaramond(0)/m/n/12 eine tiefe
 
 
 
-[31]
+[37]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[32]
+[38]
 
-[33]
+[39]
 Package microtype Info: Character `156' is missing
 (microtype)             in font `\TU/EBGaramond(0)/m/scit/12'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -2385,7 +2502,7 @@ Underfull \vbox (badness 1383) has occurred while \output is active []
 
 
 
-[34]
+[40]
 Underfull \hbox (badness 5893) in paragraph at lines 122--122
 []\TU/EBGaramond(0)/m/n/12 Nach dem Erlöschen der Raabser Grafen im Mannesstamm
 
@@ -2399,23 +2516,23 @@ amond(0)/m/n/12 heiratete Gebhard III. von Dollnstein-
 
 
 
-[35]
-
-[36]
-
-[37]
-
-[38]
-
-[39]
-
-[40]
-
 [41]
 
 [42]
 
-[43
+[43]
+
+[44]
+
+[45]
+
+[46]
+
+[47]
+
+[48]
+
+[49
 
 ]
 Underfull \hbox (badness 1371) in paragraph at lines 226--227
@@ -2437,7 +2554,7 @@ Fried-
 
 
 
-[44]
+[50]
 Underfull \hbox (badness 1107) in paragraph at lines 239--240
 []\TU/EBGaramond(0)/m/n/12 Ordensritter besetzen Pskow; Alexander Newski besieg
 t ein
@@ -2445,17 +2562,17 @@ t ein
 
 
 
-[45]
+[51]
 Underfull \hbox (badness 1107) in paragraph at lines 251--252
 []\TU/EBGaramond(0)/m/n/12 Ermordung Turan Schahs durch Mamelukenemire; Be-
  []
 
 
 
-[46])
+[52])
 
-[47]
-Underfull \hbox (badness 1661) in paragraph at lines 122--122
+[53]
+Underfull \hbox (badness 1661) in paragraph at lines 123--123
 []\TU/EBGaramond(0)/m/n/12 Institut für Realienkunde, Univ. Salzburg. \TU/EBGar
 amond(0)/m/it/12 Burg Ottenstein
  []
@@ -2465,13 +2582,13 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Underfull \hbox (badness 1248) in paragraph at lines 122--122
+Underfull \hbox (badness 1248) in paragraph at lines 123--123
 []\TU/EBGaramond(0)/m/n/12 Gerhard Köbler. \TU/EBGaramond(0)/m/it/12 Neuhochdeu
 tsch-mittelhochdeutsches Wörter-
  []
 
 
-Underfull \hbox (badness 3568) in paragraph at lines 122--122
+Underfull \hbox (badness 3568) in paragraph at lines 123--123
 \TU/EBGaramond(0)/m/it/12 buch\TU/EBGaramond(0)/m/n/12 . Online-Ressource. 2013
 . \TU/EBGaramond(0)/m/sc/12 url\TU/EBGaramond(0)/m/n/12 : [][]$[][][][][] [] []
  [] [][][] []
@@ -2479,13 +2596,13 @@ Underfull \hbox (badness 3568) in paragraph at lines 122--122
 
 
 
-[48
+[54
 
 ]
 
-[49] (frontmatter/backpage.tex
+[55] (frontmatter/backpage.tex
 
-[50
+[56
 
 
 ]
@@ -2495,24 +2612,24 @@ File: content/concept_art/logo-white.png Graphic file (type bmp)
 <content/concept_art/logo-white.png>
 )
 
-[51] (main.aux)
+[57] (main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-20>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D8E148A052240A2F63ADD5F06DC3E0C9;3447.
+(rerunfilecheck)             Checksum: ED5DA44B63AEC30B850A5071FA524AFA;3631.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 46606 strings out of 403250
- 969436 string characters out of 5460888
- 1920685 words of memory out of 5000000
- 74322 multiletter control sequences out of 15000+600000
+ 46684 strings out of 403250
+ 971353 string characters out of 5460888
+ 1922482 words of memory out of 5000000
+ 74397 multiletter control sequences out of 15000+600000
  630931 words of font info for 95 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
  99i,16n,107p,2550b,5401s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (59 pages).
+Output written on main.pdf (65 pages).
