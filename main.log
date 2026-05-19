@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.8.31)  19 MAY 2026 16:22
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.8.31)  19 MAY 2026 19:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1662,15 +1662,15 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
 * h-part:(L,W,R)=(58.71936pt, 316.18127pt, 58.71936pt)
-* v-part:(T,H,B)=(54.2025pt, 542.025pt, 54.2025pt)
+* v-part:(T,H,B)=(72.26999pt, 505.89001pt, 72.26999pt)
 * \paperwidth=433.62pt
 * \paperheight=650.43pt
 * \textwidth=316.18127pt
-* \textheight=542.025pt
+* \textheight=505.89001pt
 * \oddsidemargin=-13.55063pt
 * \evensidemargin=-13.55063pt
-* \topmargin=-49.94128pt
-* \headheight=15.0pt
+* \topmargin=-31.8738pt
+* \headheight=19.0pt
 * \headsep=19.8738pt
 * \topskip=12.0pt
 * \footskip=30.0pt
@@ -1759,8 +1759,8 @@ contour: Using 16 copies for `\textcolor {ManuscriptRed}{\carolingian \scshape
 * \textheight=505.89001pt
 * \oddsidemargin=-72.26999pt
 * \evensidemargin=-72.26999pt
-* \topmargin=-34.8738pt
-* \headheight=15.0pt
+* \topmargin=-38.8738pt
+* \headheight=19.0pt
 * \headsep=19.8738pt
 * \topskip=12.0pt
 * \footskip=30.0pt
@@ -1866,35 +1866,34 @@ File: content/concept_art/page_decoration_13.png Graphic file (type bmp)
 <content/concept_art/page_decoration_13.png>
 File: content/concept_art/page_decoration_13.png Graphic file (type bmp)
 <content/concept_art/page_decoration_13.png>
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
 File: content/concept_art/page_decoration_13.png Graphic file (type bmp)
 <content/concept_art/page_decoration_13.png>
 File: content/concept_art/page_decoration_13.png Graphic file (type bmp)
 <content/concept_art/page_decoration_13.png>
-[2])
+[2]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-File: content/concept_art/page_decoration_6.png Graphic file (type bmp)
-<content/concept_art/page_decoration_6.png>
-File: content/concept_art/page_decoration_6.png Graphic file (type bmp)
-<content/concept_art/page_decoration_6.png>
 
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
 
-File: content/concept_art/page_decoration_6.png Graphic file (type bmp)
-<content/concept_art/page_decoration_6.png>
-File: content/concept_art/page_decoration_6.png Graphic file (type bmp)
-<content/concept_art/page_decoration_6.png>
-[3]
+File: content/concept_art/page_decoration_12.png Graphic file (type bmp)
+<content/concept_art/page_decoration_12.png>
+File: content/concept_art/page_decoration_12.png Graphic file (type bmp)
+<content/concept_art/page_decoration_12.png>
+File: content/concept_art/page_decoration_12.png Graphic file (type bmp)
+<content/concept_art/page_decoration_12.png>
+File: content/concept_art/page_decoration_12.png Graphic file (type bmp)
+<content/concept_art/page_decoration_12.png>
+[3])
+
+File: content/concept_art/page_decoration_11.png Graphic file (type bmp)
+<content/concept_art/page_decoration_11.png>
+File: content/concept_art/page_decoration_11.png Graphic file (type bmp)
+<content/concept_art/page_decoration_11.png>
+File: content/concept_art/page_decoration_11.png Graphic file (type bmp)
+<content/concept_art/page_decoration_11.png>
+File: content/concept_art/page_decoration_11.png Graphic file (type bmp)
+<content/concept_art/page_decoration_11.png>
+[4]
 Kapitel II.
 File: content/concept_art/chapter_decoration_2.png Graphic file (type bmp)
 <content/concept_art/chapter_decoration_2.png>
@@ -1909,30 +1908,23 @@ Package lettrine.sty Info: Targeted height = 38.061pt
 textcolor {ManuscriptRed}{\carolingian H}});
 (lettrine.sty)             reported on input line 5.
 ) (content/book 1/chapter2.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 2478) has occurred while \output is active []
 
 
 
-[4
+[5
 
 ]
 
-File: content/concept_art/page_decoration_5.png Graphic file (type bmp)
-<content/concept_art/page_decoration_5.png>
-File: content/concept_art/page_decoration_5.png Graphic file (type bmp)
-<content/concept_art/page_decoration_5.png>
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
-File: content/concept_art/page_decoration_5.png Graphic file (type bmp)
-<content/concept_art/page_decoration_5.png>
-File: content/concept_art/page_decoration_5.png Graphic file (type bmp)
-<content/concept_art/page_decoration_5.png>
-[5]
+File: content/concept_art/page_decoration_9.png Graphic file (type bmp)
+<content/concept_art/page_decoration_9.png>
+File: content/concept_art/page_decoration_9.png Graphic file (type bmp)
+<content/concept_art/page_decoration_9.png>
+File: content/concept_art/page_decoration_9.png Graphic file (type bmp)
+<content/concept_art/page_decoration_9.png>
+File: content/concept_art/page_decoration_9.png Graphic file (type bmp)
+<content/concept_art/page_decoration_9.png>
+[6]
 contour: Using 16 copies for `\textcolor {ManuscriptRed}{\carolingian U}' on in
 put line 4.
 contour: Using 16 copies for `\textcolor {ManuscriptRed}{\carolingian U}' on in
@@ -1947,41 +1939,27 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-File: content/concept_art/page_decoration_11.png Graphic file (type bmp)
-<content/concept_art/page_decoration_11.png>
-File: content/concept_art/page_decoration_11.png Graphic file (type bmp)
-<content/concept_art/page_decoration_11.png>
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
-File: content/concept_art/page_decoration_11.png Graphic file (type bmp)
-<content/concept_art/page_decoration_11.png>
-File: content/concept_art/page_decoration_11.png Graphic file (type bmp)
-<content/concept_art/page_decoration_11.png>
-[6
+File: content/concept_art/page_decoration_8.png Graphic file (type bmp)
+<content/concept_art/page_decoration_8.png>
+File: content/concept_art/page_decoration_8.png Graphic file (type bmp)
+<content/concept_art/page_decoration_8.png>
+File: content/concept_art/page_decoration_8.png Graphic file (type bmp)
+<content/concept_art/page_decoration_8.png>
+File: content/concept_art/page_decoration_8.png Graphic file (type bmp)
+<content/concept_art/page_decoration_8.png>
+[7
 
 ]) (content/book 1/chapter3.tex
 
-File: content/concept_art/page_decoration_4.png Graphic file (type bmp)
-<content/concept_art/page_decoration_4.png>
-File: content/concept_art/page_decoration_4.png Graphic file (type bmp)
-<content/concept_art/page_decoration_4.png>
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
-File: content/concept_art/page_decoration_4.png Graphic file (type bmp)
-<content/concept_art/page_decoration_4.png>
-File: content/concept_art/page_decoration_4.png Graphic file (type bmp)
-<content/concept_art/page_decoration_4.png>
-[7]
+File: content/concept_art/page_decoration_7.png Graphic file (type bmp)
+<content/concept_art/page_decoration_7.png>
+File: content/concept_art/page_decoration_7.png Graphic file (type bmp)
+<content/concept_art/page_decoration_7.png>
+File: content/concept_art/page_decoration_7.png Graphic file (type bmp)
+<content/concept_art/page_decoration_7.png>
+File: content/concept_art/page_decoration_7.png Graphic file (type bmp)
+<content/concept_art/page_decoration_7.png>
+[8]
 contour: Using 16 copies for `\textcolor {ManuscriptRed}{\carolingian D}' on in
 put line 5.
 contour: Using 16 copies for `\textcolor {ManuscriptRed}{\carolingian D}' on in
@@ -2002,41 +1980,27 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-File: content/concept_art/page_decoration_10.png Graphic file (type bmp)
-<content/concept_art/page_decoration_10.png>
-File: content/concept_art/page_decoration_10.png Graphic file (type bmp)
-<content/concept_art/page_decoration_10.png>
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
-File: content/concept_art/page_decoration_10.png Graphic file (type bmp)
-<content/concept_art/page_decoration_10.png>
-File: content/concept_art/page_decoration_10.png Graphic file (type bmp)
-<content/concept_art/page_decoration_10.png>
-[8
+File: content/concept_art/page_decoration_6.png Graphic file (type bmp)
+<content/concept_art/page_decoration_6.png>
+File: content/concept_art/page_decoration_6.png Graphic file (type bmp)
+<content/concept_art/page_decoration_6.png>
+File: content/concept_art/page_decoration_6.png Graphic file (type bmp)
+<content/concept_art/page_decoration_6.png>
+File: content/concept_art/page_decoration_6.png Graphic file (type bmp)
+<content/concept_art/page_decoration_6.png>
+[9
 
 ]) (content/book 1/chapter4.tex
 
-File: content/concept_art/page_decoration_3.png Graphic file (type bmp)
-<content/concept_art/page_decoration_3.png>
-File: content/concept_art/page_decoration_3.png Graphic file (type bmp)
-<content/concept_art/page_decoration_3.png>
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
-File: content/concept_art/page_decoration_3.png Graphic file (type bmp)
-<content/concept_art/page_decoration_3.png>
-File: content/concept_art/page_decoration_3.png Graphic file (type bmp)
-<content/concept_art/page_decoration_3.png>
-[9]
+File: content/concept_art/page_decoration_5.png Graphic file (type bmp)
+<content/concept_art/page_decoration_5.png>
+File: content/concept_art/page_decoration_5.png Graphic file (type bmp)
+<content/concept_art/page_decoration_5.png>
+File: content/concept_art/page_decoration_5.png Graphic file (type bmp)
+<content/concept_art/page_decoration_5.png>
+File: content/concept_art/page_decoration_5.png Graphic file (type bmp)
+<content/concept_art/page_decoration_5.png>
+[10]
 contour: Using 16 copies for `\textcolor {ManuscriptRed}{\carolingian A}' on in
 put line 5.
 contour: Using 16 copies for `\textcolor {ManuscriptRed}{\carolingian A}' on in
@@ -2051,61 +2015,40 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-File: content/concept_art/page_decoration_9.png Graphic file (type bmp)
-<content/concept_art/page_decoration_9.png>
-File: content/concept_art/page_decoration_9.png Graphic file (type bmp)
-<content/concept_art/page_decoration_9.png>
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
-File: content/concept_art/page_decoration_9.png Graphic file (type bmp)
-<content/concept_art/page_decoration_9.png>
-File: content/concept_art/page_decoration_9.png Graphic file (type bmp)
-<content/concept_art/page_decoration_9.png>
-[10
+File: content/concept_art/page_decoration_4.png Graphic file (type bmp)
+<content/concept_art/page_decoration_4.png>
+File: content/concept_art/page_decoration_4.png Graphic file (type bmp)
+<content/concept_art/page_decoration_4.png>
+File: content/concept_art/page_decoration_4.png Graphic file (type bmp)
+<content/concept_art/page_decoration_4.png>
+File: content/concept_art/page_decoration_4.png Graphic file (type bmp)
+<content/concept_art/page_decoration_4.png>
+[11
 
 ]) (content/book 1/chapter5.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-File: content/concept_art/page_decoration_2.png Graphic file (type bmp)
-<content/concept_art/page_decoration_2.png>
-File: content/concept_art/page_decoration_2.png Graphic file (type bmp)
-<content/concept_art/page_decoration_2.png>
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
-File: content/concept_art/page_decoration_2.png Graphic file (type bmp)
-<content/concept_art/page_decoration_2.png>
-File: content/concept_art/page_decoration_2.png Graphic file (type bmp)
-<content/concept_art/page_decoration_2.png>
-[11]
-
-File: content/concept_art/page_decoration_8.png Graphic file (type bmp)
-<content/concept_art/page_decoration_8.png>
-File: content/concept_art/page_decoration_8.png Graphic file (type bmp)
-<content/concept_art/page_decoration_8.png>
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
-File: content/concept_art/page_decoration_8.png Graphic file (type bmp)
-<content/concept_art/page_decoration_8.png>
-File: content/concept_art/page_decoration_8.png Graphic file (type bmp)
-<content/concept_art/page_decoration_8.png>
+File: content/concept_art/page_decoration_3.png Graphic file (type bmp)
+<content/concept_art/page_decoration_3.png>
+File: content/concept_art/page_decoration_3.png Graphic file (type bmp)
+<content/concept_art/page_decoration_3.png>
+File: content/concept_art/page_decoration_3.png Graphic file (type bmp)
+<content/concept_art/page_decoration_3.png>
+File: content/concept_art/page_decoration_3.png Graphic file (type bmp)
+<content/concept_art/page_decoration_3.png>
 [12]
+
+File: content/concept_art/page_decoration_2.png Graphic file (type bmp)
+<content/concept_art/page_decoration_2.png>
+File: content/concept_art/page_decoration_2.png Graphic file (type bmp)
+<content/concept_art/page_decoration_2.png>
+File: content/concept_art/page_decoration_2.png Graphic file (type bmp)
+<content/concept_art/page_decoration_2.png>
+File: content/concept_art/page_decoration_2.png Graphic file (type bmp)
+<content/concept_art/page_decoration_2.png>
+[13]
 contour: Using 16 copies for `\textcolor {ManuscriptRed}{\carolingian D}' on in
 put line 5.
 contour: Using 16 copies for `\textcolor {ManuscriptRed}{\carolingian D}' on in
@@ -2130,79 +2073,38 @@ File: content/concept_art/page_decoration_1.png Graphic file (type bmp)
 <content/concept_art/page_decoration_1.png>
 File: content/concept_art/page_decoration_1.png Graphic file (type bmp)
 <content/concept_art/page_decoration_1.png>
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
 File: content/concept_art/page_decoration_1.png Graphic file (type bmp)
 <content/concept_art/page_decoration_1.png>
 File: content/concept_art/page_decoration_1.png Graphic file (type bmp)
 <content/concept_art/page_decoration_1.png>
-[13
+[14
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-File: content/concept_art/page_decoration_7.png Graphic file (type bmp)
-<content/concept_art/page_decoration_7.png>
-File: content/concept_art/page_decoration_7.png Graphic file (type bmp)
-<content/concept_art/page_decoration_7.png>
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
-File: content/concept_art/page_decoration_7.png Graphic file (type bmp)
-<content/concept_art/page_decoration_7.png>
-File: content/concept_art/page_decoration_7.png Graphic file (type bmp)
-<content/concept_art/page_decoration_7.png>
-[14]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-File: content/concept_art/page_decoration_13.png Graphic file (type bmp)
-<content/concept_art/page_decoration_13.png>
-File: content/concept_art/page_decoration_13.png Graphic file (type bmp)
-<content/concept_art/page_decoration_13.png>
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
-File: content/concept_art/page_decoration_13.png Graphic file (type bmp)
-<content/concept_art/page_decoration_13.png>
-File: content/concept_art/page_decoration_13.png Graphic file (type bmp)
-<content/concept_art/page_decoration_13.png>
+File: content/concept_art/page_decoration_14.png Graphic file (type bmp)
+<content/concept_art/page_decoration_14.png>
+File: content/concept_art/page_decoration_14.png Graphic file (type bmp)
+<content/concept_art/page_decoration_14.png>
+File: content/concept_art/page_decoration_14.png Graphic file (type bmp)
+<content/concept_art/page_decoration_14.png>
+File: content/concept_art/page_decoration_14.png Graphic file (type bmp)
+<content/concept_art/page_decoration_14.png>
 [15]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-File: content/concept_art/page_decoration_6.png Graphic file (type bmp)
-<content/concept_art/page_decoration_6.png>
-File: content/concept_art/page_decoration_6.png Graphic file (type bmp)
-<content/concept_art/page_decoration_6.png>
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
-File: content/concept_art/page_decoration_6.png Graphic file (type bmp)
-<content/concept_art/page_decoration_6.png>
-File: content/concept_art/page_decoration_6.png Graphic file (type bmp)
-<content/concept_art/page_decoration_6.png>
+File: content/concept_art/page_decoration_13.png Graphic file (type bmp)
+<content/concept_art/page_decoration_13.png>
+File: content/concept_art/page_decoration_13.png Graphic file (type bmp)
+<content/concept_art/page_decoration_13.png>
+File: content/concept_art/page_decoration_13.png Graphic file (type bmp)
+<content/concept_art/page_decoration_13.png>
+File: content/concept_art/page_decoration_13.png Graphic file (type bmp)
+<content/concept_art/page_decoration_13.png>
 [16]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -2212,35 +2114,34 @@ File: content/concept_art/page_decoration_12.png Graphic file (type bmp)
 <content/concept_art/page_decoration_12.png>
 File: content/concept_art/page_decoration_12.png Graphic file (type bmp)
 <content/concept_art/page_decoration_12.png>
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
 File: content/concept_art/page_decoration_12.png Graphic file (type bmp)
 <content/concept_art/page_decoration_12.png>
 File: content/concept_art/page_decoration_12.png Graphic file (type bmp)
 <content/concept_art/page_decoration_12.png>
-[17]) (content/book 1/chapter6.tex
+[17]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-File: content/concept_art/page_decoration_5.png Graphic file (type bmp)
-<content/concept_art/page_decoration_5.png>
-File: content/concept_art/page_decoration_5.png Graphic file (type bmp)
-<content/concept_art/page_decoration_5.png>
 
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
 
-File: content/concept_art/page_decoration_5.png Graphic file (type bmp)
-<content/concept_art/page_decoration_5.png>
-File: content/concept_art/page_decoration_5.png Graphic file (type bmp)
-<content/concept_art/page_decoration_5.png>
-[18]
+File: content/concept_art/page_decoration_11.png Graphic file (type bmp)
+<content/concept_art/page_decoration_11.png>
+File: content/concept_art/page_decoration_11.png Graphic file (type bmp)
+<content/concept_art/page_decoration_11.png>
+File: content/concept_art/page_decoration_11.png Graphic file (type bmp)
+<content/concept_art/page_decoration_11.png>
+File: content/concept_art/page_decoration_11.png Graphic file (type bmp)
+<content/concept_art/page_decoration_11.png>
+[18]) (content/book 1/chapter6.tex
+
+File: content/concept_art/page_decoration_10.png Graphic file (type bmp)
+<content/concept_art/page_decoration_10.png>
+File: content/concept_art/page_decoration_10.png Graphic file (type bmp)
+<content/concept_art/page_decoration_10.png>
+File: content/concept_art/page_decoration_10.png Graphic file (type bmp)
+<content/concept_art/page_decoration_10.png>
+File: content/concept_art/page_decoration_10.png Graphic file (type bmp)
+<content/concept_art/page_decoration_10.png>
+[19]
 contour: Using 16 copies for `\textcolor {ManuscriptRed}{\carolingian I}' on in
 put line 5.
 contour: Using 16 copies for `\textcolor {ManuscriptRed}{\carolingian I}' on in
@@ -2255,84 +2156,69 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-File: content/concept_art/page_decoration_11.png Graphic file (type bmp)
-<content/concept_art/page_decoration_11.png>
-File: content/concept_art/page_decoration_11.png Graphic file (type bmp)
-<content/concept_art/page_decoration_11.png>
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
-File: content/concept_art/page_decoration_11.png Graphic file (type bmp)
-<content/concept_art/page_decoration_11.png>
-File: content/concept_art/page_decoration_11.png Graphic file (type bmp)
-<content/concept_art/page_decoration_11.png>
-[19
+File: content/concept_art/page_decoration_9.png Graphic file (type bmp)
+<content/concept_art/page_decoration_9.png>
+File: content/concept_art/page_decoration_9.png Graphic file (type bmp)
+<content/concept_art/page_decoration_9.png>
+File: content/concept_art/page_decoration_9.png Graphic file (type bmp)
+<content/concept_art/page_decoration_9.png>
+File: content/concept_art/page_decoration_9.png Graphic file (type bmp)
+<content/concept_art/page_decoration_9.png>
+[20
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-File: content/concept_art/page_decoration_4.png Graphic file (type bmp)
-<content/concept_art/page_decoration_4.png>
-File: content/concept_art/page_decoration_4.png Graphic file (type bmp)
-<content/concept_art/page_decoration_4.png>
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
-File: content/concept_art/page_decoration_4.png Graphic file (type bmp)
-<content/concept_art/page_decoration_4.png>
-File: content/concept_art/page_decoration_4.png Graphic file (type bmp)
-<content/concept_art/page_decoration_4.png>
-[20]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-File: content/concept_art/page_decoration_10.png Graphic file (type bmp)
-<content/concept_art/page_decoration_10.png>
-File: content/concept_art/page_decoration_10.png Graphic file (type bmp)
-<content/concept_art/page_decoration_10.png>
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
-File: content/concept_art/page_decoration_10.png Graphic file (type bmp)
-<content/concept_art/page_decoration_10.png>
-File: content/concept_art/page_decoration_10.png Graphic file (type bmp)
-<content/concept_art/page_decoration_10.png>
+File: content/concept_art/page_decoration_8.png Graphic file (type bmp)
+<content/concept_art/page_decoration_8.png>
+File: content/concept_art/page_decoration_8.png Graphic file (type bmp)
+<content/concept_art/page_decoration_8.png>
+File: content/concept_art/page_decoration_8.png Graphic file (type bmp)
+<content/concept_art/page_decoration_8.png>
+File: content/concept_art/page_decoration_8.png Graphic file (type bmp)
+<content/concept_art/page_decoration_8.png>
 [21]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-File: content/concept_art/page_decoration_3.png Graphic file (type bmp)
-<content/concept_art/page_decoration_3.png>
-File: content/concept_art/page_decoration_3.png Graphic file (type bmp)
-<content/concept_art/page_decoration_3.png>
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
-File: content/concept_art/page_decoration_3.png Graphic file (type bmp)
-<content/concept_art/page_decoration_3.png>
-File: content/concept_art/page_decoration_3.png Graphic file (type bmp)
-<content/concept_art/page_decoration_3.png>
+File: content/concept_art/page_decoration_7.png Graphic file (type bmp)
+<content/concept_art/page_decoration_7.png>
+File: content/concept_art/page_decoration_7.png Graphic file (type bmp)
+<content/concept_art/page_decoration_7.png>
+File: content/concept_art/page_decoration_7.png Graphic file (type bmp)
+<content/concept_art/page_decoration_7.png>
+File: content/concept_art/page_decoration_7.png Graphic file (type bmp)
+<content/concept_art/page_decoration_7.png>
 [22]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+File: content/concept_art/page_decoration_6.png Graphic file (type bmp)
+<content/concept_art/page_decoration_6.png>
+File: content/concept_art/page_decoration_6.png Graphic file (type bmp)
+<content/concept_art/page_decoration_6.png>
+File: content/concept_art/page_decoration_6.png Graphic file (type bmp)
+<content/concept_art/page_decoration_6.png>
+File: content/concept_art/page_decoration_6.png Graphic file (type bmp)
+<content/concept_art/page_decoration_6.png>
+[23]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+File: content/concept_art/page_decoration_5.png Graphic file (type bmp)
+<content/concept_art/page_decoration_5.png>
+File: content/concept_art/page_decoration_5.png Graphic file (type bmp)
+<content/concept_art/page_decoration_5.png>
+File: content/concept_art/page_decoration_5.png Graphic file (type bmp)
+<content/concept_art/page_decoration_5.png>
+File: content/concept_art/page_decoration_5.png Graphic file (type bmp)
+<content/concept_art/page_decoration_5.png>
+[24]
 Underfull \hbox (badness 1609) in paragraph at lines 67--68
 []\TU/EBGaramond(0)/m/n/12 Zurück auf der Burg [][][]Hardegg[][] ließ [][][]Kuo
 nrât von Steinære[][] den
@@ -2340,22 +2226,15 @@ nrât von Steinære[][] den
 
 ) (content/book 1/chapter7.tex
 
-File: content/concept_art/page_decoration_9.png Graphic file (type bmp)
-<content/concept_art/page_decoration_9.png>
-File: content/concept_art/page_decoration_9.png Graphic file (type bmp)
-<content/concept_art/page_decoration_9.png>
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
-File: content/concept_art/page_decoration_9.png Graphic file (type bmp)
-<content/concept_art/page_decoration_9.png>
-File: content/concept_art/page_decoration_9.png Graphic file (type bmp)
-<content/concept_art/page_decoration_9.png>
-[23]
+File: content/concept_art/page_decoration_4.png Graphic file (type bmp)
+<content/concept_art/page_decoration_4.png>
+File: content/concept_art/page_decoration_4.png Graphic file (type bmp)
+<content/concept_art/page_decoration_4.png>
+File: content/concept_art/page_decoration_4.png Graphic file (type bmp)
+<content/concept_art/page_decoration_4.png>
+File: content/concept_art/page_decoration_4.png Graphic file (type bmp)
+<content/concept_art/page_decoration_4.png>
+[25]
 contour: Using 16 copies for `\textcolor {ManuscriptRed}{\carolingian B}' on in
 put line 5.
 contour: Using 16 copies for `\textcolor {ManuscriptRed}{\carolingian B}' on in
@@ -2370,44 +2249,43 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-File: content/concept_art/page_decoration_2.png Graphic file (type bmp)
-<content/concept_art/page_decoration_2.png>
-File: content/concept_art/page_decoration_2.png Graphic file (type bmp)
-<content/concept_art/page_decoration_2.png>
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
-File: content/concept_art/page_decoration_2.png Graphic file (type bmp)
-<content/concept_art/page_decoration_2.png>
-File: content/concept_art/page_decoration_2.png Graphic file (type bmp)
-<content/concept_art/page_decoration_2.png>
-[24
+File: content/concept_art/page_decoration_3.png Graphic file (type bmp)
+<content/concept_art/page_decoration_3.png>
+File: content/concept_art/page_decoration_3.png Graphic file (type bmp)
+<content/concept_art/page_decoration_3.png>
+File: content/concept_art/page_decoration_3.png Graphic file (type bmp)
+<content/concept_art/page_decoration_3.png>
+File: content/concept_art/page_decoration_3.png Graphic file (type bmp)
+<content/concept_art/page_decoration_3.png>
+[26
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-File: content/concept_art/page_decoration_8.png Graphic file (type bmp)
-<content/concept_art/page_decoration_8.png>
-File: content/concept_art/page_decoration_8.png Graphic file (type bmp)
-<content/concept_art/page_decoration_8.png>
+File: content/concept_art/page_decoration_2.png Graphic file (type bmp)
+<content/concept_art/page_decoration_2.png>
+File: content/concept_art/page_decoration_2.png Graphic file (type bmp)
+<content/concept_art/page_decoration_2.png>
+File: content/concept_art/page_decoration_2.png Graphic file (type bmp)
+<content/concept_art/page_decoration_2.png>
+File: content/concept_art/page_decoration_2.png Graphic file (type bmp)
+<content/concept_art/page_decoration_2.png>
+[27]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
 
-File: content/concept_art/page_decoration_8.png Graphic file (type bmp)
-<content/concept_art/page_decoration_8.png>
-File: content/concept_art/page_decoration_8.png Graphic file (type bmp)
-<content/concept_art/page_decoration_8.png>
-[25]
+
+File: content/concept_art/page_decoration_1.png Graphic file (type bmp)
+<content/concept_art/page_decoration_1.png>
+File: content/concept_art/page_decoration_1.png Graphic file (type bmp)
+<content/concept_art/page_decoration_1.png>
+File: content/concept_art/page_decoration_1.png Graphic file (type bmp)
+<content/concept_art/page_decoration_1.png>
+File: content/concept_art/page_decoration_1.png Graphic file (type bmp)
+<content/concept_art/page_decoration_1.png>
+[28]
 Underfull \hbox (badness 2689) in paragraph at lines 35--36
 []\TU/EBGaramond(0)/m/n/12 Solche Mahnung hätte einen verständigen Mann viellei
 cht ge-
@@ -2418,59 +2296,25 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-File: content/concept_art/page_decoration_1.png Graphic file (type bmp)
-<content/concept_art/page_decoration_1.png>
-File: content/concept_art/page_decoration_1.png Graphic file (type bmp)
-<content/concept_art/page_decoration_1.png>
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
-File: content/concept_art/page_decoration_1.png Graphic file (type bmp)
-<content/concept_art/page_decoration_1.png>
-File: content/concept_art/page_decoration_1.png Graphic file (type bmp)
-<content/concept_art/page_decoration_1.png>
-[26]) (content/book 1/chapter8.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-File: content/concept_art/page_decoration_7.png Graphic file (type bmp)
-<content/concept_art/page_decoration_7.png>
-File: content/concept_art/page_decoration_7.png Graphic file (type bmp)
-<content/concept_art/page_decoration_7.png>
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
-File: content/concept_art/page_decoration_7.png Graphic file (type bmp)
-<content/concept_art/page_decoration_7.png>
-File: content/concept_art/page_decoration_7.png Graphic file (type bmp)
-<content/concept_art/page_decoration_7.png>
-[27]
+File: content/concept_art/page_decoration_14.png Graphic file (type bmp)
+<content/concept_art/page_decoration_14.png>
+File: content/concept_art/page_decoration_14.png Graphic file (type bmp)
+<content/concept_art/page_decoration_14.png>
+File: content/concept_art/page_decoration_14.png Graphic file (type bmp)
+<content/concept_art/page_decoration_14.png>
+File: content/concept_art/page_decoration_14.png Graphic file (type bmp)
+<content/concept_art/page_decoration_14.png>
+[29]) (content/book 1/chapter8.tex
 
 File: content/concept_art/page_decoration_13.png Graphic file (type bmp)
 <content/concept_art/page_decoration_13.png>
 File: content/concept_art/page_decoration_13.png Graphic file (type bmp)
 <content/concept_art/page_decoration_13.png>
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
 File: content/concept_art/page_decoration_13.png Graphic file (type bmp)
 <content/concept_art/page_decoration_13.png>
 File: content/concept_art/page_decoration_13.png Graphic file (type bmp)
 <content/concept_art/page_decoration_13.png>
-[28]
+[30]
 contour: Using 16 copies for `\textcolor {ManuscriptRed}{\carolingian E}' on in
 put line 5.
 contour: Using 16 copies for `\textcolor {ManuscriptRed}{\carolingian E}' on in
@@ -2485,61 +2329,53 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-File: content/concept_art/page_decoration_6.png Graphic file (type bmp)
-<content/concept_art/page_decoration_6.png>
-File: content/concept_art/page_decoration_6.png Graphic file (type bmp)
-<content/concept_art/page_decoration_6.png>
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
-File: content/concept_art/page_decoration_6.png Graphic file (type bmp)
-<content/concept_art/page_decoration_6.png>
-File: content/concept_art/page_decoration_6.png Graphic file (type bmp)
-<content/concept_art/page_decoration_6.png>
-[29
+File: content/concept_art/page_decoration_12.png Graphic file (type bmp)
+<content/concept_art/page_decoration_12.png>
+File: content/concept_art/page_decoration_12.png Graphic file (type bmp)
+<content/concept_art/page_decoration_12.png>
+File: content/concept_art/page_decoration_12.png Graphic file (type bmp)
+<content/concept_art/page_decoration_12.png>
+File: content/concept_art/page_decoration_12.png Graphic file (type bmp)
+<content/concept_art/page_decoration_12.png>
+[31
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-File: content/concept_art/page_decoration_12.png Graphic file (type bmp)
-<content/concept_art/page_decoration_12.png>
-File: content/concept_art/page_decoration_12.png Graphic file (type bmp)
-<content/concept_art/page_decoration_12.png>
+File: content/concept_art/page_decoration_11.png Graphic file (type bmp)
+<content/concept_art/page_decoration_11.png>
+File: content/concept_art/page_decoration_11.png Graphic file (type bmp)
+<content/concept_art/page_decoration_11.png>
+File: content/concept_art/page_decoration_11.png Graphic file (type bmp)
+<content/concept_art/page_decoration_11.png>
+File: content/concept_art/page_decoration_11.png Graphic file (type bmp)
+<content/concept_art/page_decoration_11.png>
+[32]) (content/book 1/chapter9.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
 
-File: content/concept_art/page_decoration_12.png Graphic file (type bmp)
-<content/concept_art/page_decoration_12.png>
-File: content/concept_art/page_decoration_12.png Graphic file (type bmp)
-<content/concept_art/page_decoration_12.png>
-[30]) (content/book 1/chapter9.tex
 
-File: content/concept_art/page_decoration_5.png Graphic file (type bmp)
-<content/concept_art/page_decoration_5.png>
-File: content/concept_art/page_decoration_5.png Graphic file (type bmp)
-<content/concept_art/page_decoration_5.png>
+File: content/concept_art/page_decoration_10.png Graphic file (type bmp)
+<content/concept_art/page_decoration_10.png>
+File: content/concept_art/page_decoration_10.png Graphic file (type bmp)
+<content/concept_art/page_decoration_10.png>
+File: content/concept_art/page_decoration_10.png Graphic file (type bmp)
+<content/concept_art/page_decoration_10.png>
+File: content/concept_art/page_decoration_10.png Graphic file (type bmp)
+<content/concept_art/page_decoration_10.png>
+[33]
 
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
-File: content/concept_art/page_decoration_5.png Graphic file (type bmp)
-<content/concept_art/page_decoration_5.png>
-File: content/concept_art/page_decoration_5.png Graphic file (type bmp)
-<content/concept_art/page_decoration_5.png>
-[31]
+File: content/concept_art/page_decoration_9.png Graphic file (type bmp)
+<content/concept_art/page_decoration_9.png>
+File: content/concept_art/page_decoration_9.png Graphic file (type bmp)
+<content/concept_art/page_decoration_9.png>
+File: content/concept_art/page_decoration_9.png Graphic file (type bmp)
+<content/concept_art/page_decoration_9.png>
+File: content/concept_art/page_decoration_9.png Graphic file (type bmp)
+<content/concept_art/page_decoration_9.png>
+[34]
 contour: Using 16 copies for `\textcolor {ManuscriptRed}{\carolingian I}' on in
 put line 5.
 contour: Using 16 copies for `\textcolor {ManuscriptRed}{\carolingian I}' on in
@@ -2554,81 +2390,53 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-File: content/concept_art/page_decoration_11.png Graphic file (type bmp)
-<content/concept_art/page_decoration_11.png>
-File: content/concept_art/page_decoration_11.png Graphic file (type bmp)
-<content/concept_art/page_decoration_11.png>
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
-File: content/concept_art/page_decoration_11.png Graphic file (type bmp)
-<content/concept_art/page_decoration_11.png>
-File: content/concept_art/page_decoration_11.png Graphic file (type bmp)
-<content/concept_art/page_decoration_11.png>
-[32
+File: content/concept_art/page_decoration_8.png Graphic file (type bmp)
+<content/concept_art/page_decoration_8.png>
+File: content/concept_art/page_decoration_8.png Graphic file (type bmp)
+<content/concept_art/page_decoration_8.png>
+File: content/concept_art/page_decoration_8.png Graphic file (type bmp)
+<content/concept_art/page_decoration_8.png>
+File: content/concept_art/page_decoration_8.png Graphic file (type bmp)
+<content/concept_art/page_decoration_8.png>
+[35
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-File: content/concept_art/page_decoration_4.png Graphic file (type bmp)
-<content/concept_art/page_decoration_4.png>
-File: content/concept_art/page_decoration_4.png Graphic file (type bmp)
-<content/concept_art/page_decoration_4.png>
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
-File: content/concept_art/page_decoration_4.png Graphic file (type bmp)
-<content/concept_art/page_decoration_4.png>
-File: content/concept_art/page_decoration_4.png Graphic file (type bmp)
-<content/concept_art/page_decoration_4.png>
-[33]) (content/book 1/chapter10.tex
+File: content/concept_art/page_decoration_7.png Graphic file (type bmp)
+<content/concept_art/page_decoration_7.png>
+File: content/concept_art/page_decoration_7.png Graphic file (type bmp)
+<content/concept_art/page_decoration_7.png>
+File: content/concept_art/page_decoration_7.png Graphic file (type bmp)
+<content/concept_art/page_decoration_7.png>
+File: content/concept_art/page_decoration_7.png Graphic file (type bmp)
+<content/concept_art/page_decoration_7.png>
+[36]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-File: content/concept_art/page_decoration_10.png Graphic file (type bmp)
-<content/concept_art/page_decoration_10.png>
-File: content/concept_art/page_decoration_10.png Graphic file (type bmp)
-<content/concept_art/page_decoration_10.png>
+File: content/concept_art/page_decoration_6.png Graphic file (type bmp)
+<content/concept_art/page_decoration_6.png>
+File: content/concept_art/page_decoration_6.png Graphic file (type bmp)
+<content/concept_art/page_decoration_6.png>
+File: content/concept_art/page_decoration_6.png Graphic file (type bmp)
+<content/concept_art/page_decoration_6.png>
+File: content/concept_art/page_decoration_6.png Graphic file (type bmp)
+<content/concept_art/page_decoration_6.png>
+[37]) (content/book 1/chapter10.tex
 
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
-File: content/concept_art/page_decoration_10.png Graphic file (type bmp)
-<content/concept_art/page_decoration_10.png>
-File: content/concept_art/page_decoration_10.png Graphic file (type bmp)
-<content/concept_art/page_decoration_10.png>
-[34]
-
-File: content/concept_art/page_decoration_3.png Graphic file (type bmp)
-<content/concept_art/page_decoration_3.png>
-File: content/concept_art/page_decoration_3.png Graphic file (type bmp)
-<content/concept_art/page_decoration_3.png>
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
-File: content/concept_art/page_decoration_3.png Graphic file (type bmp)
-<content/concept_art/page_decoration_3.png>
-File: content/concept_art/page_decoration_3.png Graphic file (type bmp)
-<content/concept_art/page_decoration_3.png>
-[35]
+File: content/concept_art/page_decoration_5.png Graphic file (type bmp)
+<content/concept_art/page_decoration_5.png>
+File: content/concept_art/page_decoration_5.png Graphic file (type bmp)
+<content/concept_art/page_decoration_5.png>
+File: content/concept_art/page_decoration_5.png Graphic file (type bmp)
+<content/concept_art/page_decoration_5.png>
+File: content/concept_art/page_decoration_5.png Graphic file (type bmp)
+<content/concept_art/page_decoration_5.png>
+[38]
 contour: Using 16 copies for `\textcolor {ManuscriptRed}{\carolingian A}' on in
 put line 5.
 contour: Using 16 copies for `\textcolor {ManuscriptRed}{\carolingian A}' on in
@@ -2643,81 +2451,53 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-File: content/concept_art/page_decoration_9.png Graphic file (type bmp)
-<content/concept_art/page_decoration_9.png>
-File: content/concept_art/page_decoration_9.png Graphic file (type bmp)
-<content/concept_art/page_decoration_9.png>
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
-File: content/concept_art/page_decoration_9.png Graphic file (type bmp)
-<content/concept_art/page_decoration_9.png>
-File: content/concept_art/page_decoration_9.png Graphic file (type bmp)
-<content/concept_art/page_decoration_9.png>
-[36
+File: content/concept_art/page_decoration_4.png Graphic file (type bmp)
+<content/concept_art/page_decoration_4.png>
+File: content/concept_art/page_decoration_4.png Graphic file (type bmp)
+<content/concept_art/page_decoration_4.png>
+File: content/concept_art/page_decoration_4.png Graphic file (type bmp)
+<content/concept_art/page_decoration_4.png>
+File: content/concept_art/page_decoration_4.png Graphic file (type bmp)
+<content/concept_art/page_decoration_4.png>
+[39
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-File: content/concept_art/page_decoration_2.png Graphic file (type bmp)
-<content/concept_art/page_decoration_2.png>
-File: content/concept_art/page_decoration_2.png Graphic file (type bmp)
-<content/concept_art/page_decoration_2.png>
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
-File: content/concept_art/page_decoration_2.png Graphic file (type bmp)
-<content/concept_art/page_decoration_2.png>
-File: content/concept_art/page_decoration_2.png Graphic file (type bmp)
-<content/concept_art/page_decoration_2.png>
-[37]
+File: content/concept_art/page_decoration_3.png Graphic file (type bmp)
+<content/concept_art/page_decoration_3.png>
+File: content/concept_art/page_decoration_3.png Graphic file (type bmp)
+<content/concept_art/page_decoration_3.png>
+File: content/concept_art/page_decoration_3.png Graphic file (type bmp)
+<content/concept_art/page_decoration_3.png>
+File: content/concept_art/page_decoration_3.png Graphic file (type bmp)
+<content/concept_art/page_decoration_3.png>
+[40]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-File: content/concept_art/page_decoration_8.png Graphic file (type bmp)
-<content/concept_art/page_decoration_8.png>
-File: content/concept_art/page_decoration_8.png Graphic file (type bmp)
-<content/concept_art/page_decoration_8.png>
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
-File: content/concept_art/page_decoration_8.png Graphic file (type bmp)
-<content/concept_art/page_decoration_8.png>
-File: content/concept_art/page_decoration_8.png Graphic file (type bmp)
-<content/concept_art/page_decoration_8.png>
-[38]) (content/book 1/chapter11.tex
+File: content/concept_art/page_decoration_2.png Graphic file (type bmp)
+<content/concept_art/page_decoration_2.png>
+File: content/concept_art/page_decoration_2.png Graphic file (type bmp)
+<content/concept_art/page_decoration_2.png>
+File: content/concept_art/page_decoration_2.png Graphic file (type bmp)
+<content/concept_art/page_decoration_2.png>
+File: content/concept_art/page_decoration_2.png Graphic file (type bmp)
+<content/concept_art/page_decoration_2.png>
+[41]) (content/book 1/chapter11.tex
 
 File: content/concept_art/page_decoration_1.png Graphic file (type bmp)
 <content/concept_art/page_decoration_1.png>
 File: content/concept_art/page_decoration_1.png Graphic file (type bmp)
 <content/concept_art/page_decoration_1.png>
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
 File: content/concept_art/page_decoration_1.png Graphic file (type bmp)
 <content/concept_art/page_decoration_1.png>
 File: content/concept_art/page_decoration_1.png Graphic file (type bmp)
 <content/concept_art/page_decoration_1.png>
-[39]
+[42]
 contour: Using 16 copies for `\textcolor {ManuscriptRed}{\carolingian B}' on in
 put line 3.
 contour: Using 16 copies for `\textcolor {ManuscriptRed}{\carolingian B}' on in
@@ -2732,22 +2512,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-File: content/concept_art/page_decoration_7.png Graphic file (type bmp)
-<content/concept_art/page_decoration_7.png>
-File: content/concept_art/page_decoration_7.png Graphic file (type bmp)
-<content/concept_art/page_decoration_7.png>
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
-File: content/concept_art/page_decoration_7.png Graphic file (type bmp)
-<content/concept_art/page_decoration_7.png>
-File: content/concept_art/page_decoration_7.png Graphic file (type bmp)
-<content/concept_art/page_decoration_7.png>
-[40
+File: content/concept_art/page_decoration_14.png Graphic file (type bmp)
+<content/concept_art/page_decoration_14.png>
+File: content/concept_art/page_decoration_14.png Graphic file (type bmp)
+<content/concept_art/page_decoration_14.png>
+File: content/concept_art/page_decoration_14.png Graphic file (type bmp)
+<content/concept_art/page_decoration_14.png>
+File: content/concept_art/page_decoration_14.png Graphic file (type bmp)
+<content/concept_art/page_decoration_14.png>
+[43
 
 ])
 
@@ -2755,18 +2528,11 @@ File: content/concept_art/page_decoration_13.png Graphic file (type bmp)
 <content/concept_art/page_decoration_13.png>
 File: content/concept_art/page_decoration_13.png Graphic file (type bmp)
 <content/concept_art/page_decoration_13.png>
-
-Package fancyhdr Warning: \headheight is too small (15.0pt): 
-(fancyhdr)                Make it at least 18.85004pt, for example:
-(fancyhdr)                \setlength{\headheight}{18.85004pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.85004pt}.
-
 File: content/concept_art/page_decoration_13.png Graphic file (type bmp)
 <content/concept_art/page_decoration_13.png>
 File: content/concept_art/page_decoration_13.png Graphic file (type bmp)
 <content/concept_art/page_decoration_13.png>
-[41]
+[44]
 Kapitel III.
 File: content/concept_art/chapter_decoration_3.png Graphic file (type bmp)
 <content/concept_art/chapter_decoration_3.png>
@@ -2778,13 +2544,21 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[42
+[45
 
 ]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[43]) (main.gls) (main.acr) (main.sls) (main.terms-gls
 
-[44]
+
+[46]
+Overfull \vbox (12.22162pt too high) has occurred while \output is active []
+
+
+
+[47]) (main.gls) (main.acr) (main.sls) (main.terms-gls
+
+[48]
 Package microtype Info: Character `156' is missing
 (microtype)             in font `\TU/EBGaramond(0)/b/it/12'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -2793,14 +2567,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[45
+[49
 
 
 ]
+Underfull \vbox (badness 6348) has occurred while \output is active []
 
-[46]) (main.characters-gls
 
-[47]
+
+[50]) (main.characters-gls
+
+[51]
 Underfull \hbox (badness 2173) in paragraph at lines 5--5
 []\TU/EBGaramond(0)/b/n/12 die Kuenringer \TU/EBGaramond(0)/m/n/12 Mächtiges ni
 ederösterreichisches Adelsgeschlecht,
@@ -2808,35 +2585,28 @@ ederösterreichisches Adelsgeschlecht,
 
 
 
-[48
+[52
 
 
 ]
 
-[49])
+[53])
 
-[50]
+[54]
 Kapitel IV.
 (content/appendix.tex
 
-[51
+[55
 
 ]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[52]
+
+
+[56]
 Underfull \hbox (badness 1189) in paragraph at lines 24--25
 \TU/EBGaramond(0)/m/n/12 erhaft auf weitere Expansion in nowgorodisches Gebiet.
  Die Ost-
- []
-
-
-
-[53]
-
-[54]
-Underfull \hbox (badness 1163) in paragraph at lines 46--47
-\TU/EBGaramond(0)/m/n/12 Im \TU/EBGaramond(0)/m/it/12 Waldviertel\TU/EBGaramond
-(0)/m/n/12 , dem waldreichen Hochland nördlich der Donau,
  []
 
 
@@ -2844,19 +2614,32 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[55]
+[57]
+Underfull \vbox (badness 2443) has occurred while \output is active []
+
+
+
+[58]
+Underfull \hbox (badness 1163) in paragraph at lines 46--47
+\TU/EBGaramond(0)/m/n/12 Im \TU/EBGaramond(0)/m/it/12 Waldviertel\TU/EBGaramond
+(0)/m/n/12 , dem waldreichen Hochland nördlich der Donau,
+ []
+
+
+
+[59]
 Underfull \hbox (badness 5274) in paragraph at lines 63--64
 []\TU/EBGaramond(0)/m/n/12 Erster namentlich belegter
  []
 
 
+
+[60]
 Underfull \hbox (badness 6808) in paragraph at lines 68--69
 []\TU/EBGaramond(0)/m/n/12 Jüngerer Sohn Hu-
  []
 
 
-
-[56]
 Underfull \hbox (badness 10000) in paragraph at lines 70--71
 []\TU/EBGaramond(0)/m/n/12 Nachgeborener
  []
@@ -2901,6 +2684,8 @@ ers
  []
 
 
+
+[61]
 Underfull \hbox (badness 10000) in paragraph at lines 76--77
 []\TU/EBGaramond(0)/m/n/12 Wohnte noch auf der
  []
@@ -2918,29 +2703,23 @@ mond(0)/m/it/12 Thaya \TU/EBGaramond(0)/m/n/12 eine tiefe
 
 
 
-[57]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[62]
 
+[63]
 
-
-[58]
-
-[59]
+[64]
 Package microtype Info: Character `156' is missing
 (microtype)             in font `\TU/EBGaramond(0)/m/scit/12'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Underfull \vbox (badness 1383) has occurred while \output is active []
-
-
-
-[60]
 Underfull \hbox (badness 5893) in paragraph at lines 122--122
 []\TU/EBGaramond(0)/m/n/12 Nach dem Erlöschen der Raabser Grafen im Mannesstamm
 
  []
 
 
+
+[65]
 Underfull \hbox (badness 2384) in paragraph at lines 124--125
 []\TU/EBGaramond(0)/m/n/12 Die Tochter \TU/EBGaramond(0)/b/n/12 Agnes \TU/EBGar
 amond(0)/m/n/12 heiratete Gebhard III. von Dollnstein-
@@ -2948,26 +2727,38 @@ amond(0)/m/n/12 heiratete Gebhard III. von Dollnstein-
 
 
 
-[61]
-
-[62]
-
-[63]
-
-[64]
-
-[65]
-
 [66]
-Underfull \vbox (badness 2970) has occurred while \output is active []
+Underfull \vbox (badness 3168) has occurred while \output is active []
 
 
 
 [67]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 [68]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[69
+
+
+[69]
+
+[70]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[71]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[72]
+
+[73]
+
+[74
 
 ]
 Underfull \hbox (badness 1371) in paragraph at lines 226--227
@@ -2989,7 +2780,7 @@ Fried-
 
 
 
-[70]
+[75]
 Underfull \hbox (badness 1107) in paragraph at lines 239--240
 []\TU/EBGaramond(0)/m/n/12 Ordensritter besetzen Pskow; Alexander Newski besieg
 t ein
@@ -2997,16 +2788,16 @@ t ein
 
 
 
-[71]
+[76]
 Underfull \hbox (badness 1107) in paragraph at lines 251--252
 []\TU/EBGaramond(0)/m/n/12 Ermordung Turan Schahs durch Mamelukenemire; Be-
  []
 
 
 
-[72])
+[77])
 
-[73]
+[78]
 Underfull \hbox (badness 1661) in paragraph at lines 133--133
 []\TU/EBGaramond(0)/m/n/12 Institut für Realienkunde, Univ. Salzburg. \TU/EBGar
 amond(0)/m/it/12 Burg Ottenstein
@@ -3037,23 +2828,25 @@ Underfull \hbox (badness 3568) in paragraph at lines 133--133
 
 
 
-[74
+[79
 
 ]
 
-[75]
+[80]
 
-[76] (frontmatter/backpage.tex
+[81] (frontmatter/backpage.tex
+
+[82
+
+
+]
 File: content/concept_art/marble_texture.png Graphic file (type bmp)
 <content/concept_art/marble_texture.png>
 File: content/concept_art/logo-white.png Graphic file (type bmp)
 <content/concept_art/logo-white.png>
 )
 
-[77
-
-
-] (main.aux)
+[83] (main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-20>
@@ -3065,12 +2858,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 47153 strings out of 403250
- 982767 string characters out of 5460888
- 1939110 words of memory out of 5000000
- 74847 multiletter control sequences out of 15000+600000
+ 47187 strings out of 403250
+ 983750 string characters out of 5460888
+ 1939869 words of memory out of 5000000
+ 74880 multiletter control sequences out of 15000+600000
  630931 words of font info for 95 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
  99i,16n,107p,2549b,5386s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (87 pages).
+Output written on main.pdf (93 pages).

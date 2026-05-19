@@ -11,10 +11,17 @@ Ideen für Charaktere, Kapitel, Handlungsstränge, Schauplätze, Begriffe:
 - Namenloser Einsiedler aus Steiermark der im Thayatal lebt, aus Buße, nachdem er seinen eigenen Sohn getötet hatte (den er mit einem Liebhaber seiner Frau verwechselt hatte). Er ist ein alter Mann, der in einer Höhle lebt und von den Einheimischen gemieden wird.
 - Gruber: Alter Zigeuner der zwischen Böhmen und Österreich reist und prostituierte Frauen vermittelt. Er entführt Frauen in Böhmen um sie als Prostituierte in Österreich zu verkaufen.
 
+- Seine schwerst fällt ihm im Suff an seinen Fuß und er schneidet sich seine Zehen ab Vlt?
+- Dann trägt er Holzzehen aus baltischer Tanne und die riechen stark nach Nadelholz und er sagt daraufhin ständig zu irgendwelchen Leuten das sie an seinen Füßen riechen sollen
+- Ich habe eine Idee für die bankrott sache
+Er lässt alle Wälder schlägern weil er für irgendetwas dummes viel Geld ausgibt und dann könnt ein katastrophaler regen der den fruchtbaren Boden wegwäscht und die Leute hungern, er lässt Teiche zur Fischzucht anlegen muss sich dafür aber bei den juden verschulden und dann handlungsloch
+- Er könnte dann noch die juden vertreiben und die gehen daraufhin zum Kaiser der ein judenliebhaber is und dann wird der Kaiser Haas am Steiner
+
 Sagen:
 - Die Laibbrotmarter bei Raabs (1300): Geht um Hungersnot. Konrad könnte als auslöser der Hungersnot vom Mönch dargestellt werden.
 - Thaya Wassermann
 - Die Schwarze Frau von Hardegg -> Konrad von Hardegg als böser Graf (Ingo)
+
 
 Chronologie
 - Konrad von Steiner ist verlobt mit Diemut, jedoch bricht sie die Verlobung. Steiner ist besessen.
