@@ -180,6 +180,43 @@
       \field{labeltitlesource}{title}
       \field{title}{Burg Raabs (Burgid 2188)}
     \endentry
+    \entry{znojmo_official_history}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=ae5a0f70d6d8c4897d407ebfc871a692}{%
+           family={Kacetl},
+           familyi={K\bibinitperiod},
+           given={Jiří},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Město Znojmo}%
+      }
+      \strng{namehash}{ae5a0f70d6d8c4897d407ebfc871a692}
+      \strng{fullhash}{ae5a0f70d6d8c4897d407ebfc871a692}
+      \strng{fullhashraw}{ae5a0f70d6d8c4897d407ebfc871a692}
+      \strng{bibnamehash}{ae5a0f70d6d8c4897d407ebfc871a692}
+      \strng{authorbibnamehash}{ae5a0f70d6d8c4897d407ebfc871a692}
+      \strng{authornamehash}{ae5a0f70d6d8c4897d407ebfc871a692}
+      \strng{authorfullhash}{ae5a0f70d6d8c4897d407ebfc871a692}
+      \strng{authorfullhashraw}{ae5a0f70d6d8c4897d407ebfc871a692}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Offizielle Stadtgeschichte; erstellt 2008, aktualisiert 2014}
+      \field{title}{Úvodní informace o Znojmě}
+      \field{urlday}{19}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.znojmocity.cz/historie-a-pamatky/d-3021/
+      \endverb
+      \verb{url}
+      \verb https://www.znojmocity.cz/historie-a-pamatky/d-3021/
+      \endverb
+    \endentry
     \entry{kacetl_thayatal}{book}{}{}
       \name{author}{3}{}{%
         {{hash=4702869ad1b40cfdb235fdc33b14a97e}{%
