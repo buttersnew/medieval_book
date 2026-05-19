@@ -16,6 +16,7 @@ Ideen für Charaktere, Kapitel, Handlungsstränge, Schauplätze, Begriffe:
 - Ich habe eine Idee für die bankrott sache
 Er lässt alle Wälder schlägern weil er für irgendetwas dummes viel Geld ausgibt und dann könnt ein katastrophaler regen der den fruchtbaren Boden wegwäscht und die Leute hungern, er lässt Teiche zur Fischzucht anlegen muss sich dafür aber bei den juden verschulden und dann handlungsloch
 - Er könnte dann noch die juden vertreiben und die gehen daraufhin zum Kaiser der ein judenliebhaber is und dann wird der Kaiser Haas am Steiner
+- er könnte unsummen in ein Turnier investieren, für nichtigkeiten: Goldene Fahnenstangen, verzierte Ställe, Goldene Hufe.
 
 Sagen:
 - Die Laibbrotmarter bei Raabs (1300): Geht um Hungersnot. Konrad könnte als auslöser der Hungersnot vom Mönch dargestellt werden.
