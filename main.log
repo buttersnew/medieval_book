@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.8.31)  19 MAY 2026 15:48
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.8.31)  19 MAY 2026 16:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -3065,10 +3065,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 47160 strings out of 403250
- 982857 string characters out of 5460888
- 1939100 words of memory out of 5000000
- 74854 multiletter control sequences out of 15000+600000
+ 47153 strings out of 403250
+ 982767 string characters out of 5460888
+ 1939110 words of memory out of 5000000
+ 74847 multiletter control sequences out of 15000+600000
  630931 words of font info for 95 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
  99i,16n,107p,2549b,5386s stack positions out of 10000i,1000n,20000p,200000b,200000s
