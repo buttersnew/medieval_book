@@ -53,7 +53,7 @@ Schreibe den Romantext als LaTeX gemäß dem Skill `medieval-book-latex`:
 
 Nach dem Schreiben immer:
 
-#### A) Kapitelzusammenfassung anlegen/aktualisieren → `docs/chapters/<Kapiteltitel>.md`
+#### A) Kapitelzusammenfassung anlegen/aktualisieren → `docs/chapters/<buch_nummer>/<kapitel_nummer Kapiteltitel>.md`
 
 ```markdown
 # <Kapiteltitel>

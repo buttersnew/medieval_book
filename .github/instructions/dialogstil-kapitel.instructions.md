@@ -18,6 +18,7 @@ Dialoge sollen in das 13. Jahrhundert passen und wie Teil einer moenchischen Chr
 - Normale deutsche Umlaute im Fließtext direkt als `ä`, `ö`, `ü` schreiben, niemals als `ae`, `oe`, `ue`.
 - Direkte Rede immer mit \enquote{...}, niemals mit rohen Anfuehrungszeichen.
 - Benannte Charaktere und Glossarbegriffe bei namentlicher Nennung mit \gls{Schluessel} referenzieren.
+- Jeder neu eingefuehrte mittelhochdeutsche Begriff muss in `content/glossary.tex` als Glossareintrag vom Typ `terms` angelegt werden und im Kapiteltext ueber `\gls{Schluessel}` erscheinen; rohe Begriffe wie `Frouwe` ohne Glossareintrag sind nicht erlaubt.
 - Mittelhochdeutsche Namensformen verwenden, passend zum Register.
 - Keine Gedankenstriche im Fliesstext.
 

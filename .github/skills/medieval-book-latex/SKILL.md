@@ -113,6 +113,7 @@ Orte, historische Begriffe, Konzepte und sonstige Fachbegriffe werden hier als T
 
 **Regeln:**
 - Für Orte: geografische Lage, historische Epoche, Bedeutung für die Handlung.
+- Auch mittelhochdeutsche Wörter und höfische Anreden gehören hierher, sobald sie im Fließtext erscheinen; sie müssen vor der Verwendung als `terms`-Eintrag angelegt und im Kapiteltext mit `\gls{Begriffname}` referenziert werden.
 - Im Fließtext: `\gls{Begriffname}`.
 - `description` darf **nicht** mit einem Punkt (`.`) enden – LaTeX fügt diesen automatisch an.
 

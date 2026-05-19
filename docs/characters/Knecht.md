@@ -11,6 +11,7 @@ Der Knecht ist ein namenloser Gefolgsmann, den Kuonrât von Steinære ausschlie�
 ## Bisheriger Verlauf
 - **[Das erste Buch]:** Begleitet Kuonrât von Steinære auf dessen Fahrt nach Hardegg durch tiefen Wegschlamm. Wird nach dem Spott von Dorfmägden für den beschmutzten Zustand von Ross und Wappenrock verantwortlich gemacht und zum fortwährenden Putzen angehalten. [fiktional zulässig]
 - **[Das erste Buch]:** Wird von Kuonrât in einer Vollmondnacht zur Thaya beordert, um den sagenhaften Wassermann anzulocken. Widersetzt sich zunächst, willigt dann unter Druck ein, an ein Seil gebunden ins Wasser zu steigen. Wird von der Strömung mitgerissen und kämpft sich zurück ans Ufer; die Einheimischen berichten, er habe dabei mit dem Wassermann gerungen und eine silberne Glocke erbeutet, die beim Morgengrauen schmilzt. Kuonrât macht ihn für den Verlust verantwortlich und sperrt ihn zur Strafe in den Schweinestall. [fiktional zulässig]
+- **[Das erste Buch]:** Muss Kuonrât bei dessen Besuchen in Raabs helfen, indem er die Zofe Diemuts mit kleinen Vorwänden von ihrer Herrin fortlockt. Als Wolfhart von Raabs die heimlichen Treffen verbietet, wird der Knecht erneut zum Ziel von Kuonrâts Zorn und soll in eine Senkgrube gestoßen werden; stattdessen fällt der Herr selbst hinein. [fiktional zulässig]
 
 ## Beziehungen
 - Kuonrât von Steinære: Herr und Befehlsgeber; behandelt ihn schlecht und macht ihn zum Sündenbock für eigene Fehlschläge

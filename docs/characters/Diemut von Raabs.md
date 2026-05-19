@@ -14,6 +14,7 @@ Diemut ist die Tochter des Herrn Wolfhart von Raabs, eine recht gewöhnliche nie
 
 ## Bisheriger Verlauf
 - **[Das erste Buch]:** Als einzige Tochter Wolfhart von Raabs eingeführt. Durch landesfürstlichen Beschluss mit dem elfjährigen Kuonrât von Steinære verlobt.
+- **[Das erste Buch]:** Wird von Kuonrât von Steinære in Raabs mehrfach aufgesucht. Beim ersten Treffen verweigert sie ihm in Gegenwart ihrer Zofe die gewünschte Vertraulichkeit und hält am Anstand des Hauses fest; später lässt sie wiederholte heimliche Begegnungen zu, bis ihr Vater weitere Treffen ohne Zeugen verbietet. Die Spannung zwischen stiller Fügsamkeit und eigener Schwäche tritt hier erstmals deutlich hervor. [fiktional zulässig]
 
 ## Beziehungen
 - [Wolfhart von Raabs](Wolfhart%20von%20Raabs.md): Vater
