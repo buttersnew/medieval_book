@@ -10,23 +10,12 @@ Veltlôufer ist ein kräftiges, für den Ritt bestimmtes Ross, das Kuonrât zu B
 
 ## Bisheriger Verlauf
 - **[Das erste Buch]:** Wird Kuonrât von Steinære in dessen vierzehntem Lebensjahr zum Aufbruch nach Hardegg übergeben. Auf der ersten überlieferten Reise wird auch Veltlôufer vom Wegschlamm bespritzt und danach vom Knecht immer wieder gereinigt. [fiktional zulässig]
+- **[Das erste Buch, Kapitel 10]:** Steht außerhalb der Stadt, als Kuonrât vor dem Znaimer Rat verhört und festgenommen wird; vom Herrn noch kurz vor Beginn des Streits im Dialog erwähnt. [fiktional zulässig]
+- **[Das erste Buch, Kapitel 11]:** Nach Kuonrâts Festnahme reitet der Knecht mit Veltlôufer zurück nach Hardegg und weiter nach Ottenstein. Das Ross ist damit das Mittel, durch das die Nachricht von der Gefangennahme überhaupt zu Hadmar von Steinære gelangt; ohne ihn wäre die Kette der Ereignisse bis zur Freilassung wohl nie in Gang gesetzt worden. [fiktional zulässig]
 
 ## Beziehungen
 - [Kuonrat von Steinare](Kuonrat%20von%20Steinare.md): Herr und Reiter [fiktional zulässig]
-- [Knecht](Knecht.md): muss das Tier auf Kuonrâts Befehl reinigen [fiktional zulässig]# Veltlôufer
-
-## Basisdaten
-- **Stand:** Streitross
-- **Herkunft:** unbekannt
-- **Erste Erwähnung:** Charakterregister
-
-## Beschreibung
-Veltlôufer — der „Feldläufer" — ist das Streitross Kuonrâts von Steinære. Sein Name steht im ironischen Widerspruch zu seinem Wesen: Das Pferd ist widerspenstig, neigt zu Gebrechen und kostet seinen Herrn fortlaufend Unsummen beim Hufschmied. Dennoch besteht Kuonrât auf dem Namen als Zeugnis seiner kühnen Hoffnungen und behandelt das Tier mit einer Zuneigung, die er manchem Menschen verweigert.
-
-## Bisheriger Verlauf
-- **[Das erste Buch]:** Kapitel 3. Erhält sein Pferd.
-- **[Das erste Buch]:** Kapitel 7. Erwähnt das Pferd im Dialog.
-- **[Das erste Buch]:** Kapitel 10. Erwähnt das Pferd im Dialog.
+- [Knecht](Knecht.md): muss das Tier auf Kuonrâts Befehl reinigen; reitet es nach Kuonrâts Verhaftung heimwärts [fiktional zulässig]
 
 ## Beziehungen
 - [Kuonrât von Steinære](Kuonrat%20von%20Steinare.md): Herr und Reiter

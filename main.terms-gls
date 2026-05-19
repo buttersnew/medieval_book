@@ -30,7 +30,11 @@
 		\setentrycounter[]{page}\glsnumberformat{23}\delimN 
 		\setentrycounter[]{page}\glsnumberformat{25}\delimN 
 		\setentrycounter[]{page}\glsnumberformat{29\delimN 30}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{36\delimR 38}}}\glsgroupskip
+		\setentrycounter[]{page}\glsnumberformat{36\delimR 38}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{40\delimN 41}}}\glsgroupskip
+\glsgroupheading{A}\relax \glsresetentrylist %
+\glossentry{Aggstein}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{40}}}\glsgroupskip
 \glsgroupheading{B}\relax \glsresetentrylist %
 \glossentry{Baden}{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{4}}}\glsgroupskip
@@ -44,7 +48,8 @@
 		\setentrycounter[]{page}\glsnumberformat{23\delimN 24}\delimN 
 		\setentrycounter[]{page}\glsnumberformat{27}\delimN 
 		\setentrycounter[]{page}\glsnumberformat{29}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{32}}}\glsgroupskip
+		\setentrycounter[]{page}\glsnumberformat{32}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{40}}}\glsgroupskip
 \glsgroupheading{R}\relax \glsresetentrylist %
 \glossentry{Raabs an der Thaya}{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{6}\delimN 
